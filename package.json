@@ -1,6 +1,9 @@
 {
   "name": "api-rest",
   "version": "1.0.0",
+  "engines": {
+    "node": "5.9.1"
+  },
   "description": "Proyecto de API RESTful con NODE.JS y Express",
   "main": "index.js",
   "scripts": {
