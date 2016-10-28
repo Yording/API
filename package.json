@@ -1,17 +1,25 @@
 {
-  "name": "api-rest",
+  "name": "API",
   "version": "1.0.0",
+  "description": "API for WeDevJS",
   "engines": {
     "node": "5.9.1"
   },
-  "description": "Proyecto de API RESTful con NODE.JS y Express",
   "main": "index.js",
   "scripts": {
     "start": "node index.js",
-    "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "author": "Yording Cala",
-  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/yording/API.git"
+  },
+  "author": "yording",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/yording/API/issues"
+  },
+  "homepage": "https://github.com/yording/API#readme",
+  "devDependencies": {},
   "dependencies": {
     "body-parser": "^1.15.2",
     "express": "^4.14.0",
