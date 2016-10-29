@@ -1,16 +1,14 @@
-'use strict'
-
-const mongoose = require('mongoose');
-const config = require('./config');
-const app = require("./app");
+var mongoose = require('mongoose');
+var config = require('./config');
+var app = require("./app");
 
 
-mongoose.connect(config.db, (err,res) =>{
+mongoose.connect(config.db,function (err,res){
 	if(err) throw err;
 	console.log("Conexión a la base de datos establecida...");
 
-	app.listen(config.port,() => {
-		console.log(`Api REST http://localhost:${config.port}`);
+	app.listen(config.port,function(){
+		console.log("Api REST http://localhost:300");
 	});
 });
 

@@ -1,8 +1,6 @@
-'user strict'
-
-const express = require('express');
-const router = express.Router();
-const productCtrl = require('../controllers/product');
+var express = require('express');
+var router = express.Router();
+var productCtrl = require('../controllers/product');
 
 
 //get para todos los productos
