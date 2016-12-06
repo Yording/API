@@ -8,8 +8,7 @@ var userRoute = require('./routes/user.route.js');
 var productRoute = require('./routes/product.route.js');
 
 router
-  .use(authMiddleware.verifyToken)  //route middleware para verificar un token
-  .use('/products', productRoute) //routes products
+  .use('/products', authMiddleware.verifyToken, productRoute) //routes products. Se asigna Middleware de verificacion token para la ruta
   .use('/users', userRoute) // routes users
 
 module.exports = router;
