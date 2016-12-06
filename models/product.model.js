@@ -1,7 +1,9 @@
+'use strict'
+
 var mongoose = require("mongoose");
 var Schema = mongoose.Schema;
 
-var productSchema = Schema ({
+var productSchema = Schema({
 	name: String,
 	picture: String,
 	price: {
@@ -10,11 +12,11 @@ var productSchema = Schema ({
 	},
 	category: {
 		type: String,
-		enum:['computers','phones','accesories'],
+		enum: ['computers', 'phones', 'accesories'],
 	},
 	description: String
 });
 
-var Product = mongoose.model('Product',productSchema);
+var Product = mongoose.model('Product', productSchema);
 
 module.exports = Product;
