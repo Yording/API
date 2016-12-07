@@ -1,0 +1,3772 @@
+[{
+               "nro" : "312",
+               "rnt" : "30765",
+               "nombre_comercial" : "PPC Pollo; Pizza; Carne",
+               "direccion" : "Centro Comercial Centro Mayor Calle 38 A Sur No 34 D - 51 Local 114",
+               "telefono" : "NR",
+               "localidad" : "Antonio Nariño",
+               "servicio_a_domicilio" : "No",
+               "telefono_a_domicilio" : "NA",
+               "pagina_web" : "www.ppc.com.co"
+           },{
+               "nro" : "74",
+               "rnt" : "14811",
+               "nombre_comercial" : "MC Donalds Avenida Jiménez",
+               "direccion" : "Avenida Jiménez No 7 - 25",
+               "telefono" : "243 94 91 - 311 491 31 75",
+               "localidad" : "Candelaria",
+               "servicio_a_domicilio" : "Sí",
+               "telefono_a_domicilio" : "400 33 33",
+               "pagina_web" : "www.mcdonalds.com.co"
+           },{
+               "nro" : "307",
+               "rnt" : "30223",
+               "nombre_comercial" : "Andrés Exprés Caseta de Luxe",
+               "direccion" : "Centro Comercial Salitre Plaza Carrera 68 B No 24 - 39 Local 391",
+               "telefono" : "416 82 67 -",
+               "localidad" : "Fontibón",
+               "servicio_a_domicilio" : "No",
+               "telefono_a_domicilio" : "NA",
+               "pagina_web" : "www.andrescarnederes.com"
+           },{
+               "nro" : "378",
+               "rnt" : "34251",
+               "nombre_comercial" : "Bogota Beer Company S A",
+               "direccion" : "Carrera 7 No 32  - 48",
+               "telefono" : "350 90 93 -",
+               "localidad" : "Santafé",
+               "servicio_a_domicilio" : "NR",
+               "telefono_a_domicilio" : "NA",
+               "pagina_web" : "www.bogotabeercompany.com"
+           },{
+               "nro" : "370",
+               "rnt" : "34031",
+               "nombre_comercial" : "Restaurante Indigo",
+               "direccion" : "Carrera 11 A No 93 B - 27",
+               "telefono" : "691 50 06 - 691 50 04",
+               "localidad" : "Chapinero",
+               "servicio_a_domicilio" : "NR",
+               "telefono_a_domicilio" : "NA",
+               "pagina_web" : "NR"
+           },{
+               "nro" : "260",
+               "rnt" : "27339",
+               "nombre_comercial" : "KFC",
+               "direccion" : "Centro Comercial Salitre Plaza Carrera 68 B No 24 - 39 Local 377",
+               "telefono" : "NR",
+               "localidad" : "Fontibón",
+               "servicio_a_domicilio" : "Sí",
+               "telefono_a_domicilio" : "600 09 09",
+               "pagina_web" : "www.kfcbuenisimo.com/colombia"
+           },{
+               "nro" : "173",
+               "rnt" : "24346",
+               "nombre_comercial" : "Aracataca Colombian Steakhouse",
+               "direccion" : "Carrera 13 No 28 A - 31 Local 101",
+               "telefono" : "288 85 64 - 288 88 73",
+               "localidad" : "Santafé",
+               "servicio_a_domicilio" : "Sí",
+               "telefono_a_domicilio" : "288 85 64",
+               "pagina_web" : "www.restaurantearacataca.com"
+           },{
+               "nro" : "185",
+               "rnt" : "25667",
+               "nombre_comercial" : "Crepes & Waffles",
+               "direccion" : "Avenida 19 No 120 - 16",
+               "telefono" : "676 76 00 Extensión 703 -",
+               "localidad" : "Usaquén",
+               "servicio_a_domicilio" : "No",
+               "telefono_a_domicilio" : "NA",
+               "pagina_web" : "www.Crepesywaffles.com"
+           },{
+               "nro" : "324",
+               "rnt" : "31047",
+               "nombre_comercial" : "Sopas de Mamá y Postres de la Abuela  Sucursal Centro Mayor",
+               "direccion" : "Centro Comercial Centro Mayor Calle 38 A Sur No 34 D - 50 Local 316",
+               "telefono" : "658 48 97 -",
+               "localidad" : "Antonio Nariño",
+               "servicio_a_domicilio" : "NR",
+               "telefono_a_domicilio" : "NA",
+               "pagina_web" : "www.sopasypostres.com.co"
+           },{
+               "nro" : "120",
+               "rnt" : "19123",
+               "nombre_comercial" : "Punto Rápido Puente Aéreo",
+               "direccion" : "Avenida calle 26 No 106 - 28 Puente Aéreo  Local 207",
+               "telefono" : "413 88 84 -",
+               "localidad" : "Fontibón",
+               "servicio_a_domicilio" : "NR",
+               "telefono_a_domicilio" : "NA",
+               "pagina_web" : "NR"
+           },{
+               "nro" : "245",
+               "rnt" : "27239",
+               "nombre_comercial" : "Presto Calle 23",
+               "direccion" : "Carrera 7 No 22 - 95",
+               "telefono" : "243 73 70 -",
+               "localidad" : "Santafé",
+               "servicio_a_domicilio" : "Sí",
+               "telefono_a_domicilio" : "6550 550",
+               "pagina_web" : "www.presto.com.co"
+           },{
+               "nro" : "332",
+               "rnt" : "31416",
+               "nombre_comercial" : "Andrés Exprés Caseta de Luxe",
+               "direccion" : "Centro Comercial Unicentro de occidente Carrera 111 C No 86 - 05 Local 2-26",
+               "telefono" : "863 78 80 -",
+               "localidad" : "Engativá",
+               "servicio_a_domicilio" : "NR",
+               "telefono_a_domicilio" : "NA",
+               "pagina_web" : "www.andrescarnederes.com"
+           },{
+               "nro" : "246",
+               "rnt" : "27240",
+               "nombre_comercial" : "Presto Palma Real",
+               "direccion" : "Carrera A 13 No 28 - 23 Local 1-A4",
+               "telefono" : "288 78 95 -",
+               "localidad" : "Santafé",
+               "servicio_a_domicilio" : "Sí",
+               "telefono_a_domicilio" : "6550 550",
+               "pagina_web" : "www.presto.com.co"
+           },{
+               "nro" : "91",
+               "rnt" : "15758",
+               "nombre_comercial" : "Cotidiano Café Brasserie",
+               "direccion" : "Carrera 5 No 71 - 45 Local 104",
+               "telefono" : "654 54 54 -",
+               "localidad" : "Chapinero",
+               "servicio_a_domicilio" : "Sí",
+               "telefono_a_domicilio" : "654 54 54",
+               "pagina_web" : "www.elcotidiano.com.co"
+           },{
+               "nro" : "333",
+               "rnt" : "31455",
+               "nombre_comercial" : "1.492 Restaurante Latino",
+               "direccion" : "Carrera 12 No 83 - 11",
+               "telefono" : "257 28 53 -",
+               "localidad" : "Chapinero",
+               "servicio_a_domicilio" : "No",
+               "telefono_a_domicilio" : "NA",
+               "pagina_web" : "www.1492restaurante.com"
+           },{
+               "nro" : "283",
+               "rnt" : "29840",
+               "nombre_comercial" : "Don Jediondo Sopitas y Parrilla",
+               "direccion" : "Centro Comercial Santafé Calle 185 No 45 - 03 LC 395",
+               "telefono" : "605 83 13 -",
+               "localidad" : "Usaquén",
+               "servicio_a_domicilio" : "Sí",
+               "telefono_a_domicilio" : "605 83 13",
+               "pagina_web" : "www.donjediondo.com"
+           },{
+               "nro" : "201",
+               "rnt" : "26320",
+               "nombre_comercial" : "Hamburguesas el Corral Gran Estación II",
+               "direccion" : "Centro Comercial Gran Estación Avenida Calle 26 No 62 - 47 Local 350",
+               "telefono" : "NR",
+               "localidad" : "Teusaquillo",
+               "servicio_a_domicilio" : "No",
+               "telefono_a_domicilio" : "NA",
+               "pagina_web" : "www.elcorral.com"
+           },{
+               "nro" : "247",
+               "rnt" : "27241",
+               "nombre_comercial" : "Presto Carrera 7",
+               "direccion" : "Carrera 7 No 12B - 72",
+               "telefono" : "342 10 41 -",
+               "localidad" : "Candelaria",
+               "servicio_a_domicilio" : "Sí",
+               "telefono_a_domicilio" : "6550 550",
+               "pagina_web" : "www.presto.com.co"
+           },{
+               "nro" : "385",
+               "rnt" : "34435",
+               "nombre_comercial" : "Presto Santander",
+               "direccion" : "Carrera 7 No 16 - 49",
+               "telefono" : "341 01 37 -",
+               "localidad" : "Santafé",
+               "servicio_a_domicilio" : "Sí",
+               "telefono_a_domicilio" : "6550 550",
+               "pagina_web" : "www.presto.com.co"
+           },{
+               "nro" : "159",
+               "rnt" : "22614",
+               "nombre_comercial" : "Il Panino",
+               "direccion" : "Calle 93 A No 11 A - 26/30",
+               "telefono" : "616 01 41 -",
+               "localidad" : "Chapinero",
+               "servicio_a_domicilio" : "NR",
+               "telefono_a_domicilio" : "NA",
+               "pagina_web" : "NR"
+           },{
+               "nro" : "50",
+               "rnt" : "14633",
+               "nombre_comercial" : "Restaurante Wok",
+               "direccion" : "Calle 93B No 12 - 28",
+               "telefono" : "236 49 39 -",
+               "localidad" : "Chapinero",
+               "servicio_a_domicilio" : "NR",
+               "telefono_a_domicilio" : "NA",
+               "pagina_web" : "www.wok.com.co"
+           },{
+               "nro" : "18",
+               "rnt" : "14352",
+               "nombre_comercial" : "Hamburguesas el Corral Andino",
+               "direccion" : "Carrera 11 No 82 - 01/71 Local 405",
+               "telefono" : "NR",
+               "localidad" : "Chapinero",
+               "servicio_a_domicilio" : "No",
+               "telefono_a_domicilio" : "NA",
+               "pagina_web" : "www.elcorral.com"
+           },{
+               "nro" : "387",
+               "rnt" : "34468",
+               "nombre_comercial" : "Andrés Expres Caseta De Luxe",
+               "direccion" : "Centro Comercial Avenida de Las Américas No 62 - 84 Local 388",
+               "telefono" : "863 78 80 -",
+               "localidad" : "Puente Aranda",
+               "servicio_a_domicilio" : "NR",
+               "telefono_a_domicilio" : "NA",
+               "pagina_web" : "www.andrescarnederes.com"
+           },{
+               "nro" : "148",
+               "rnt" : "22454",
+               "nombre_comercial" : "Isola",
+               "direccion" : "Carrera 12 A No 83 - 30",
+               "telefono" : "530 06 78 -",
+               "localidad" : "Chapinero",
+               "servicio_a_domicilio" : "NR",
+               "telefono_a_domicilio" : "NA",
+               "pagina_web" : "www.isolarestaurante.com"
+           },{
+               "nro" : "172",
+               "rnt" : "24345",
+               "nombre_comercial" : "Trattoria Bellini",
+               "direccion" : "Carrera 13 No 28 A - 31 Piso 3",
+               "telefono" : "288 85 60 - 288 88 73",
+               "localidad" : "Santafé",
+               "servicio_a_domicilio" : "Sí",
+               "telefono_a_domicilio" : "288 87 50 - 288 85 60",
+               "pagina_web" : "www.belliniRestaurante.com"
+           },{
+               "nro" : "72",
+               "rnt" : "14809",
+               "nombre_comercial" : "MC Donalds Plaza de Las Américas",
+               "direccion" : "Centro Comercial Plaza de Las Américas Carrera 71 D No 6 - 94 Sur Local 1500",
+               "telefono" : "260 82 20 - 311 561 08 62",
+               "localidad" : "Kennedy",
+               "servicio_a_domicilio" : "Sí",
+               "telefono_a_domicilio" : "400 33 33",
+               "pagina_web" : "www.mcdonalds.com.co"
+           },{
+               "nro" : "196",
+               "rnt" : "25909",
+               "nombre_comercial" : "Gaira Café",
+               "direccion" : "Carrera 13 No 96 - 11",
+               "telefono" : "746 26 96 -",
+               "localidad" : "Chapinero",
+               "servicio_a_domicilio" : "NR",
+               "telefono_a_domicilio" : "NA",
+               "pagina_web" : "www.gairacafe.co"
+           },{
+               "nro" : "394",
+               "rnt" : "34921",
+               "nombre_comercial" : "La Hamburgueseria  La 85",
+               "direccion" : "Calle 85 No 12 - 49",
+               "telefono" : "610 20 01 -",
+               "localidad" : "Chapinero",
+               "servicio_a_domicilio" : "Sí",
+               "telefono_a_domicilio" : "600 09 69",
+               "pagina_web" : "www.lahamburgueseria.com"
+           },{
+               "nro" : "85",
+               "rnt" : "15027",
+               "nombre_comercial" : "Oma Café Restaurante Bogotá Zona T",
+               "direccion" : "Carrera 12 A No 83 - 49",
+               "telefono" : "NR",
+               "localidad" : "Chapinero",
+               "servicio_a_domicilio" : "NR",
+               "telefono_a_domicilio" : "NA",
+               "pagina_web" : "http://173.254.122.220/"
+           },{
+               "nro" : "374",
+               "rnt" : "34167",
+               "nombre_comercial" : "Restaurante La Juguetería 147",
+               "direccion" : "Avenida 19 No 147 - 30",
+               "telefono" : "300 08 69 -",
+               "localidad" : "Usaquén",
+               "servicio_a_domicilio" : "NR",
+               "telefono_a_domicilio" : "NA",
+               "pagina_web" : "www.restaurantelajugueteria.com.co"
+           },{
+               "nro" : "277",
+               "rnt" : "29564",
+               "nombre_comercial" : "Crepes & Waffles",
+               "direccion" : "Centro comercial Gran Estación Avenida Calle 26 No  62 - 47  Local 319-320 Esfera",
+               "telefono" : "676 76 00 Extensión 760 -",
+               "localidad" : "Teusaquillo",
+               "servicio_a_domicilio" : "No",
+               "telefono_a_domicilio" : "NA",
+               "pagina_web" : "www.Crepesywaffles.com"
+           },{
+               "nro" : "162",
+               "rnt" : "22845",
+               "nombre_comercial" : "Restaurante Wok",
+               "direccion" : "Carrera 6A  117 -  02",
+               "telefono" : "213 44 36 -",
+               "localidad" : "Usaquén",
+               "servicio_a_domicilio" : "NR",
+               "telefono_a_domicilio" : "NA",
+               "pagina_web" : "www.wok.com.co"
+           },{
+               "nro" : "218",
+               "rnt" : "26365",
+               "nombre_comercial" : "MC Donalds Santafé",
+               "direccion" : "Centro Comercial Santafé Calle 183 No 45 - 03 Local 3-121",
+               "telefono" : "600 65 07 - 312 588 95 17",
+               "localidad" : "Usaquén",
+               "servicio_a_domicilio" : "Sí",
+               "telefono_a_domicilio" : "400 33 33",
+               "pagina_web" : "www.mcdonalds.com.co"
+           },{
+               "nro" : "395",
+               "rnt" : "34923",
+               "nombre_comercial" : "La Hamburgueseria  Usaquén",
+               "direccion" : "Calle 118 No 6 A - 40",
+               "telefono" : "214 19 43 - 213 35 18",
+               "localidad" : "Usaquén",
+               "servicio_a_domicilio" : "Sí",
+               "telefono_a_domicilio" : "600 09 69",
+               "pagina_web" : "www.lahamburgueseria.com"
+           },{
+               "nro" : "331",
+               "rnt" : "31415",
+               "nombre_comercial" : "Andrés Exprés Caseta de Luxe",
+               "direccion" : "Centro Comercial Portal de la 80 Transversal 100 A No 80 A - 20 Local N3-034",
+               "telefono" : "863 78 80 -",
+               "localidad" : "Engativá",
+               "servicio_a_domicilio" : "NR",
+               "telefono_a_domicilio" : "NA",
+               "pagina_web" : "www.andrescarnederes.com"
+           },{
+               "nro" : "87",
+               "rnt" : "15081",
+               "nombre_comercial" : "Donostia Cocina de Mercado",
+               "direccion" : "Calle 29 BIS No 5 - 84",
+               "telefono" : "287 39 43 -",
+               "localidad" : "Santafé",
+               "servicio_a_domicilio" : "NR",
+               "telefono_a_domicilio" : "NA",
+               "pagina_web" : "NR"
+           },{
+               "nro" : "252",
+               "rnt" : "27249",
+               "nombre_comercial" : "Frisby G81",
+               "direccion" : "Centro Comercial Atlantis Plaza Calle 81 No 13 - 05 Local 404",
+               "telefono" : "01800939000 -",
+               "localidad" : "Chapinero",
+               "servicio_a_domicilio" : "Sí",
+               "telefono_a_domicilio" : "01 800 939 000",
+               "pagina_web" : "www.frisby.com.co"
+           },{
+               "nro" : "365",
+               "rnt" : "33785",
+               "nombre_comercial" : "Las Cuatro Estaciones de Catalonia",
+               "direccion" : "Carrera 8 A No 98 - 38",
+               "telefono" : "256 93 09 -",
+               "localidad" : "Chapinero",
+               "servicio_a_domicilio" : "Sí",
+               "telefono_a_domicilio" : "2569309 Extensión 109",
+               "pagina_web" : "NR"
+           },{
+               "nro" : "261",
+               "rnt" : "27546",
+               "nombre_comercial" : "Paneroli",
+               "direccion" : "Centro Comercial Salitre Plaza Carrera 68 B No 24 - 39 Local 419",
+               "telefono" : "416 93 71 -",
+               "localidad" : "Fontibón",
+               "servicio_a_domicilio" : "Sí",
+               "telefono_a_domicilio" : "416 93 71",
+               "pagina_web" : "paneroli.com"
+           },{
+               "nro" : "10",
+               "rnt" : "14335",
+               "nombre_comercial" : "Hamburguesas el Corral Pepe Sierra",
+               "direccion" : "Avenida 116 No 18B - 75",
+               "telefono" : "NR",
+               "localidad" : "Usaquén",
+               "servicio_a_domicilio" : "No",
+               "telefono_a_domicilio" : "NA",
+               "pagina_web" : "www.elcorral.com"
+           },{
+               "nro" : "325",
+               "rnt" : "31048",
+               "nombre_comercial" : "Sopas de Mamá y Postres de la Abuela Sucursal Santafé",
+               "direccion" : "Centro Comercial Santafé Autopista Norte Calle 185 No 45 - 03 Local 366",
+               "telefono" : "658 48 96 -",
+               "localidad" : "Usaquén",
+               "servicio_a_domicilio" : "NR",
+               "telefono_a_domicilio" : "NA",
+               "pagina_web" : "www.sopasypostres.com.co"
+           },{
+               "nro" : "298",
+               "rnt" : "30022",
+               "nombre_comercial" : "Nueve",
+               "direccion" : "Calle 70 A No 10 A - 18",
+               "telefono" : "248 70 73 -",
+               "localidad" : "Chapinero",
+               "servicio_a_domicilio" : "NR",
+               "telefono_a_domicilio" : "NA",
+               "pagina_web" : "www.nueve.in"
+           },{
+               "nro" : "275",
+               "rnt" : "28413",
+               "nombre_comercial" : "Hamburguesas el Corral Exito Villa Mayor",
+               "direccion" : "Autopista Sur No 38 A - 07 Local 113",
+               "telefono" : "NR",
+               "localidad" : "Antonio Nariño",
+               "servicio_a_domicilio" : "No",
+               "telefono_a_domicilio" : "NA",
+               "pagina_web" : "www.elcorral.com"
+           },{
+               "nro" : "232",
+               "rnt" : "26477",
+               "nombre_comercial" : "Enchiladas Cocina Mexicana",
+               "direccion" : "Calle 10 No 2 - 12",
+               "telefono" : "286 03 12 - 315 311 16 46",
+               "localidad" : "Candelaria",
+               "servicio_a_domicilio" : "NR",
+               "telefono_a_domicilio" : "NA",
+               "pagina_web" : "enchiladascandelaria.com"
+           },{
+               "nro" : "353",
+               "rnt" : "32851",
+               "nombre_comercial" : "Kokoriko Avenida Chile",
+               "direccion" : "Avenida  13 No 71 - 60",
+               "telefono" : "NR",
+               "localidad" : "Chapinero",
+               "servicio_a_domicilio" : "Sí",
+               "telefono_a_domicilio" : "410 01 11",
+               "pagina_web" : "www.kokoriko.com.co"
+           },{
+               "nro" : "51",
+               "rnt" : "14636",
+               "nombre_comercial" : "La Biferia",
+               "direccion" : "Calle 69 No 5 -61",
+               "telefono" : "345 61 90 - 320 344 34 25",
+               "localidad" : "Chapinero",
+               "servicio_a_domicilio" : "NR",
+               "telefono_a_domicilio" : "NA",
+               "pagina_web" : "labiferia.squarespace.com"
+           },{
+               "nro" : "265",
+               "rnt" : "27722",
+               "nombre_comercial" : "Restaurante WOK",
+               "direccion" : "Calle 110 No 9 B - 04",
+               "telefono" : "637 86 57 -",
+               "localidad" : "Usaquén",
+               "servicio_a_domicilio" : "NR",
+               "telefono_a_domicilio" : "NA",
+               "pagina_web" : "www.wok.com.co"
+           },{
+               "nro" : "145",
+               "rnt" : "22431",
+               "nombre_comercial" : "Criterion",
+               "direccion" : "Calle 69 A No 5 - 75",
+               "telefono" : "310 13 77 - 314 293 41 92",
+               "localidad" : "Chapinero",
+               "servicio_a_domicilio" : "NR",
+               "telefono_a_domicilio" : "NA",
+               "pagina_web" : "www.criterion.com.co"
+           },{
+               "nro" : "210",
+               "rnt" : "26329",
+               "nombre_comercial" : "Hamburguesas el Corral Centro Mayor I",
+               "direccion" : "Centro Comercial Centro Mayor Calle 38 A Sur No 34 D - 51 Local 2 -101 y 2 - 102",
+               "telefono" : "NR",
+               "localidad" : "Antonio Nariño",
+               "servicio_a_domicilio" : "No",
+               "telefono_a_domicilio" : "NA",
+               "pagina_web" : "www.elcorral.com"
+           },{
+               "nro" : "287",
+               "rnt" : "29956",
+               "nombre_comercial" : "Café Illy Unicentro",
+               "direccion" : "Centro Comercial Unicentro Avenida 15 No 124 - 30 Local 1 - 12",
+               "telefono" : "215 79 74 -",
+               "localidad" : "Usaquén",
+               "servicio_a_domicilio" : "NR",
+               "telefono_a_domicilio" : "NA",
+               "pagina_web" : "www.illy.com"
+           },{
+               "nro" : "71",
+               "rnt" : "14807",
+               "nombre_comercial" : "MC Donalds Andino",
+               "direccion" : "Carrera 11 No 82 - 02 Local 355",
+               "telefono" : "616 89 90 - 311 491 31 72",
+               "localidad" : "Chapinero",
+               "servicio_a_domicilio" : "Sí",
+               "telefono_a_domicilio" : "400 33 33",
+               "pagina_web" : "www.mcdonalds.com.co"
+           },{
+               "nro" : "362",
+               "rnt" : "33672",
+               "nombre_comercial" : "Sipote Burrito Parque de la 93",
+               "direccion" : "Carrera 11 A No 93 - 93 Local 101",
+               "telefono" : "644 77 88 -",
+               "localidad" : "Chapinero",
+               "servicio_a_domicilio" : "NR",
+               "telefono_a_domicilio" : "NA",
+               "pagina_web" : "www.sipoteburrito.com"
+           },{
+               "nro" : "105",
+               "rnt" : "17576",
+               "nombre_comercial" : "La Biferia",
+               "direccion" : "Calle 29 Bis No 6 - 12",
+               "telefono" : "245 83 88 - 314 414 24 03",
+               "localidad" : "Santafé",
+               "servicio_a_domicilio" : "NR",
+               "telefono_a_domicilio" : "NA",
+               "pagina_web" : "labiferia.squarespace.com"
+           },{
+               "nro" : "356",
+               "rnt" : "33324",
+               "nombre_comercial" : "Uva",
+               "direccion" : "Carrera 13 No 94 A - 26 Local 3",
+               "telefono" : "703 10 97 -",
+               "localidad" : "Chapinero",
+               "servicio_a_domicilio" : "NR",
+               "telefono_a_domicilio" : "NA",
+               "pagina_web" : "www.uvabar.co"
+           },{
+               "nro" : "187",
+               "rnt" : "25669",
+               "nombre_comercial" : "Crepes & Waffles",
+               "direccion" : "Carrera 7 No 32  -  84 Local 210",
+               "telefono" : "676 76 00 Extensión 730 -",
+               "localidad" : "Santafé",
+               "servicio_a_domicilio" : "No",
+               "telefono_a_domicilio" : "NA",
+               "pagina_web" : "www.Crepesywaffles.com"
+           },{
+               "nro" : "2",
+               "rnt" : "8251",
+               "nombre_comercial" : "Oma Barra de Café Bogotá Puente Aereo",
+               "direccion" : "Avenida Calle 26 No 106 - 47 Primer Piso Diagonal Porteria 4 (Vuelos Nacionales de Avianca)",
+               "telefono" : "NR",
+               "localidad" : "Fontibón",
+               "servicio_a_domicilio" : "NR",
+               "telefono_a_domicilio" : "NA",
+               "pagina_web" : "http://173.254.122.220/"
+           },{
+               "nro" : "154",
+               "rnt" : "22607",
+               "nombre_comercial" : "Café Renault",
+               "direccion" : "Calle 93 B No 11A - 84 Local 101",
+               "telefono" : "621 15 38 -",
+               "localidad" : "Chapinero",
+               "servicio_a_domicilio" : "NR",
+               "telefono_a_domicilio" : "NA",
+               "pagina_web" : "NR"
+           },{
+               "nro" : "346",
+               "rnt" : "32844",
+               "nombre_comercial" : "Kokoriko Salitre Plaza",
+               "direccion" : "Centro Comercial Salitre Plaza Carrera 68 B No 24 - 39 Local 363",
+               "telefono" : "NR",
+               "localidad" : "Fontibón",
+               "servicio_a_domicilio" : "Sí",
+               "telefono_a_domicilio" : "410 01 11",
+               "pagina_web" : "www.kokoriko.com.co"
+           },{
+               "nro" : "263",
+               "rnt" : "27548",
+               "nombre_comercial" : "Paneroli 3",
+               "direccion" : "Centro Comercial Unicentro Avenida 15 No 124 - 30  Local 419",
+               "telefono" : "213 07 00 -",
+               "localidad" : "Usaquén",
+               "servicio_a_domicilio" : "Sí",
+               "telefono_a_domicilio" : "213 07 00",
+               "pagina_web" : "paneroli.com"
+           },{
+               "nro" : "197",
+               "rnt" : "26068",
+               "nombre_comercial" : "Archies Santafe",
+               "direccion" : "Centro Comercial Santafé Calle 185 No 45 - 03 Local N3-063",
+               "telefono" : "605 82 32 -",
+               "localidad" : "Usaquén",
+               "servicio_a_domicilio" : "Sí",
+               "telefono_a_domicilio" : "605 05 05",
+               "pagina_web" : "www.archies.co"
+           },{
+               "nro" : "327",
+               "rnt" : "31410",
+               "nombre_comercial" : "Andrés Exprés Caseta de Luxe",
+               "direccion" : "Calle 93 No 12 - 11 Local 11",
+               "telefono" : "863 78 80 -",
+               "localidad" : "Chapinero",
+               "servicio_a_domicilio" : "NR",
+               "telefono_a_domicilio" : "NA",
+               "pagina_web" : "www.andrescarnederes.com"
+           },{
+               "nro" : "86",
+               "rnt" : "15028",
+               "nombre_comercial" : "Oma Café Restaurante Bogotá Gran Estación",
+               "direccion" : "Centro Comercial Gran Estación Calle 26 No 62 - 47 Local 157-158",
+               "telefono" : "NR",
+               "localidad" : "Teusaquillo",
+               "servicio_a_domicilio" : "NR",
+               "telefono_a_domicilio" : "NA",
+               "pagina_web" : "http://173.254.122.220/"
+           },{
+               "nro" : "379",
+               "rnt" : "34252",
+               "nombre_comercial" : "Bogota Beer Company",
+               "direccion" : "Carrera 4 No 15 - 01",
+               "telefono" : "742 92 92 -",
+               "localidad" : "Candelaria",
+               "servicio_a_domicilio" : "NR",
+               "telefono_a_domicilio" : "NA",
+               "pagina_web" : "www.bogotabeercompany.com"
+           },{
+               "nro" : "244",
+               "rnt" : "27238",
+               "nombre_comercial" : "Presto Pepe Sierra",
+               "direccion" : "Calle 116 No 19 - 62",
+               "telefono" : "612 73 91 -",
+               "localidad" : "Chapinero",
+               "servicio_a_domicilio" : "Sí",
+               "telefono_a_domicilio" : "6550 550",
+               "pagina_web" : "www.presto.com.co"
+           },{
+               "nro" : "183",
+               "rnt" : "25665",
+               "nombre_comercial" : "Crepes & Waffles",
+               "direccion" : "Centro Comercial Plaza de Las Américas Carrera 71D No 6  -  94 Sur Local 1092",
+               "telefono" : "676 76 00 Extensión 749 -",
+               "localidad" : "Kennedy",
+               "servicio_a_domicilio" : "No",
+               "telefono_a_domicilio" : "NA",
+               "pagina_web" : "www.Crepesywaffles.com"
+           },{
+               "nro" : "251",
+               "rnt" : "27247",
+               "nombre_comercial" : "Presto Landia",
+               "direccion" : "Calle 100 No 17 - 10",
+               "telefono" : "218 02 20 -",
+               "localidad" : "Chapinero",
+               "servicio_a_domicilio" : "Sí",
+               "telefono_a_domicilio" : "6550 550",
+               "pagina_web" : "www.presto.com.co"
+           },{
+               "nro" : "230",
+               "rnt" : "26443",
+               "nombre_comercial" : "Crepes & Waffles",
+               "direccion" : "Centro comercial Santafé Calle 185 No 45 - 03 Local 357",
+               "telefono" : "676 76 00 Extensión 725 -",
+               "localidad" : "Usaquén",
+               "servicio_a_domicilio" : "No",
+               "telefono_a_domicilio" : "NA",
+               "pagina_web" : "www.Crepesywaffles.com"
+           },{
+               "nro" : "9",
+               "rnt" : "14333",
+               "nombre_comercial" : "Hamburguesas el Corral Plaza",
+               "direccion" : "Centro Comercial Plaza de Las Américas Carrera 71 D  No 6 - 94 Sur  Local 2912",
+               "telefono" : "NR",
+               "localidad" : "Kennedy",
+               "servicio_a_domicilio" : "No",
+               "telefono_a_domicilio" : "NA",
+               "pagina_web" : "www.elcorral.com"
+           },{
+               "nro" : "55",
+               "rnt" : "14646",
+               "nombre_comercial" : "Restaurante Niko Café",
+               "direccion" : "Carrera 13 No 83 - 48",
+               "telefono" : "610 80 90 - 610 81 02",
+               "localidad" : "Chapinero",
+               "servicio_a_domicilio" : "No",
+               "telefono_a_domicilio" : "NA",
+               "pagina_web" : "NR"
+           },{
+               "nro" : "175",
+               "rnt" : "25297",
+               "nombre_comercial" : "La Mar Cebiche ría Peruana",
+               "direccion" : "Calle 119 B No 6 - 01",
+               "telefono" : "629 21 77 -",
+               "localidad" : "Usaquén",
+               "servicio_a_domicilio" : "NR",
+               "telefono_a_domicilio" : "NA",
+               "pagina_web" : "www.lamarcebicheria.com"
+           },{
+               "nro" : "266",
+               "rnt" : "27833",
+               "nombre_comercial" : "Restaurante Gaudí",
+               "direccion" : "Carrera 4A No 27 - 54",
+               "telefono" : "342 71 83 - 321 219 67 83",
+               "localidad" : "Santafé",
+               "servicio_a_domicilio" : "No",
+               "telefono_a_domicilio" : "NA",
+               "pagina_web" : "www.Restaurantegaudi.com"
+           },{
+               "nro" : "82",
+               "rnt" : "15014",
+               "nombre_comercial" : "Oma Café Restaurante Bogotá Bavaria",
+               "direccion" : "Carrera 10 No 27 - 91 Interior 117 Torre B",
+               "telefono" : "NR",
+               "localidad" : "Santafé",
+               "servicio_a_domicilio" : "NR",
+               "telefono_a_domicilio" : "NA",
+               "pagina_web" : "http://173.254.122.220/"
+           },{
+               "nro" : "16",
+               "rnt" : "14350",
+               "nombre_comercial" : "Beer Station",
+               "direccion" : "Avenida Calle 116 No 15 - 59",
+               "telefono" : "215 48 00 -",
+               "localidad" : "Usaquén",
+               "servicio_a_domicilio" : "NR",
+               "telefono_a_domicilio" : "NA",
+               "pagina_web" : "www.beerstation.com.co"
+           },{
+               "nro" : "308",
+               "rnt" : "30224",
+               "nombre_comercial" : "Zatar",
+               "direccion" : "Carrera 5 No 69 - 15",
+               "telefono" : "317 98 74 -",
+               "localidad" : "Chapinero",
+               "servicio_a_domicilio" : "NR",
+               "telefono_a_domicilio" : "NA",
+               "pagina_web" : "zatar.com.co"
+           },{
+               "nro" : "258",
+               "rnt" : "27318",
+               "nombre_comercial" : "Frisby No 43",
+               "direccion" : "Centro Comercial Plaza de Las Américas Carrera 71 D No 6  - 94 Local 29 - 02",
+               "telefono" : "01800939000 -",
+               "localidad" : "Kennedy",
+               "servicio_a_domicilio" : "Sí",
+               "telefono_a_domicilio" : "01 800 939 000",
+               "pagina_web" : "www.frisby.com.co"
+           },{
+               "nro" : "83",
+               "rnt" : "15015",
+               "nombre_comercial" : "Oma Café Restaurante Bogotá Parque 93",
+               "direccion" : "Calle 93 A No 12 - 55",
+               "telefono" : "NR",
+               "localidad" : "Chapinero",
+               "servicio_a_domicilio" : "NR",
+               "telefono_a_domicilio" : "NA",
+               "pagina_web" : "http://173.254.122.220/"
+           },{
+               "nro" : "96",
+               "rnt" : "16239",
+               "nombre_comercial" : "Restaurante Gato Negro",
+               "direccion" : "Calle 93 A No 11 A - 47",
+               "telefono" : "622 33 15 -",
+               "localidad" : "Chapinero",
+               "servicio_a_domicilio" : "NR",
+               "telefono_a_domicilio" : "NA",
+               "pagina_web" : "www.restaurantegatonegro.com.co"
+           },{
+               "nro" : "352",
+               "rnt" : "32850",
+               "nombre_comercial" : "Kokoriko Restaurante Centro Mayor",
+               "direccion" : "Centro Comercial Centro Mayor Calle 38 A Sur No 34 D - 51  Local 2172 - 2172",
+               "telefono" : "NR",
+               "localidad" : "Antonio Nariño",
+               "servicio_a_domicilio" : "Sí",
+               "telefono_a_domicilio" : "410 01 11",
+               "pagina_web" : "www.kokoriko.com.co"
+           },{
+               "nro" : "250",
+               "rnt" : "27245",
+               "nombre_comercial" : "Burger Station San Martin - Presto San Martín",
+               "direccion" : "Carrera 7 No 31 - 70",
+               "telefono" : "323 21 36 -",
+               "localidad" : "Santafé",
+               "servicio_a_domicilio" : "Sí",
+               "telefono_a_domicilio" : "6550 550",
+               "pagina_web" : "www.presto.com.co"
+           },{
+               "nro" : "14",
+               "rnt" : "14345",
+               "nombre_comercial" : "Hamburguesas el Corral Calle 71",
+               "direccion" : "Carrera 9 No 71 - 24",
+               "telefono" : "NR",
+               "localidad" : "Chapinero",
+               "servicio_a_domicilio" : "No",
+               "telefono_a_domicilio" : "NA",
+               "pagina_web" : "www.elcorral.com"
+           },{
+               "nro" : "81",
+               "rnt" : "15013",
+               "nombre_comercial" : "Oma Café Restaurante Bogotá El Lago",
+               "direccion" : "Carrera 15 No 82 - 58",
+               "telefono" : "NR",
+               "localidad" : "Chapinero",
+               "servicio_a_domicilio" : "NR",
+               "telefono_a_domicilio" : "NA",
+               "pagina_web" : "http://173.254.122.220/"
+           },{
+               "nro" : "212",
+               "rnt" : "26331",
+               "nombre_comercial" : "Corral Gourmet Santa Ana",
+               "direccion" : "Calle 110 No 9 A - 60 Local 303",
+               "telefono" : "637 86 50 -",
+               "localidad" : "Usaquén",
+               "servicio_a_domicilio" : "NR",
+               "telefono_a_domicilio" : "NA",
+               "pagina_web" : "www.elcorralgourmet.com"
+           },{
+               "nro" : "223",
+               "rnt" : "26425",
+               "nombre_comercial" : "Linas Sandwiches",
+               "direccion" : "Centro Comercial Andino Carrera 11 No 82 - 71 Local 150",
+               "telefono" : "616 85 85 -",
+               "localidad" : "Chapinero",
+               "servicio_a_domicilio" : "Sí",
+               "telefono_a_domicilio" : "616 85 85",
+               "pagina_web" : "NR"
+           },{
+               "nro" : "284",
+               "rnt" : "29891",
+               "nombre_comercial" : "Narcobollo 3",
+               "direccion" : "Carrera 20 No 116 - 14",
+               "telefono" : "637 70 96 -",
+               "localidad" : "Usaquén",
+               "servicio_a_domicilio" : "NR",
+               "telefono_a_domicilio" : "NA",
+               "pagina_web" : "NR"
+           },{
+               "nro" : "392",
+               "rnt" : "34801",
+               "nombre_comercial" : "Nolita",
+               "direccion" : "Carrera 13 No 85 - 25",
+               "telefono" : "610 00 80 -",
+               "localidad" : "Chapinero",
+               "servicio_a_domicilio" : "NR",
+               "telefono_a_domicilio" : "NA",
+               "pagina_web" : "nolita.com.co"
+           },{
+               "nro" : "384",
+               "rnt" : "34421",
+               "nombre_comercial" : "El Carnal",
+               "direccion" : "Centro Comercial San Martín Carrera 7 No 32  - 16 Local 402",
+               "telefono" : "NR",
+               "localidad" : "Santafé",
+               "servicio_a_domicilio" : "No",
+               "telefono_a_domicilio" : "NA",
+               "pagina_web" : "elcarnal.com.co"
+           },{
+               "nro" : "350",
+               "rnt" : "32848",
+               "nombre_comercial" : "Kokoriko La Gran Estación",
+               "direccion" : "Centro Comercial Gran Estación Avenida Calle 26 No 62 - 47 Local 319",
+               "telefono" : "NR",
+               "localidad" : "Teusaquillo",
+               "servicio_a_domicilio" : "Sí",
+               "telefono_a_domicilio" : "410 01 11",
+               "pagina_web" : "www.kokoriko.com.co"
+           },{
+               "nro" : "62",
+               "rnt" : "14666",
+               "nombre_comercial" : "Salto del Angel",
+               "direccion" : "Carrera 13 No 93 A - 45",
+               "telefono" : "654 54 55 -",
+               "localidad" : "Chapinero",
+               "servicio_a_domicilio" : "NR",
+               "telefono_a_domicilio" : "NA",
+               "pagina_web" : "www.saltodelangel.com.co"
+           },{
+               "nro" : "238",
+               "rnt" : "26543",
+               "nombre_comercial" : "Hamburguesas el Corral Calle 90",
+               "direccion" : "Carrera 18 No 89 - 38",
+               "telefono" : "NR",
+               "localidad" : "Chapinero",
+               "servicio_a_domicilio" : "No",
+               "telefono_a_domicilio" : "NA",
+               "pagina_web" : "www.elcorral.com"
+           },{
+               "nro" : "294",
+               "rnt" : "30008",
+               "nombre_comercial" : "El Carnal",
+               "direccion" : "Centro Comercial Gran Estación Avenida Calle 26 No 62 - 47 Local 351",
+               "telefono" : "NR",
+               "localidad" : "Teusaquillo",
+               "servicio_a_domicilio" : "No",
+               "telefono_a_domicilio" : "NA",
+               "pagina_web" : "elcarnal.com.co"
+           },{
+               "nro" : "393",
+               "rnt" : "34920",
+               "nombre_comercial" : "La Hamburgueseria  El Chico",
+               "direccion" : "Calle 93 B No 11 A - 34",
+               "telefono" : "616 01 69 - 616 00 54",
+               "localidad" : "Chapinero",
+               "servicio_a_domicilio" : "Sí",
+               "telefono_a_domicilio" : "600 09 69",
+               "pagina_web" : "www.lahamburgueseria.com"
+           },{
+               "nro" : "113",
+               "rnt" : "19006",
+               "nombre_comercial" : "Osaki USAQUEN",
+               "direccion" : "Calle 118 No 6 A - 09",
+               "telefono" : "NR",
+               "localidad" : "Usaquén",
+               "servicio_a_domicilio" : "Sí",
+               "telefono_a_domicilio" : "644 77 77",
+               "pagina_web" : "www.osaki.com.co"
+           },{
+               "nro" : "4",
+               "rnt" : "8735",
+               "nombre_comercial" : "MC Donalds Aeropuerto",
+               "direccion" : "Aeropuerto El Dorado Local 2346 - 2347",
+               "telefono" : "428 26 81 - 311 491 31 71",
+               "localidad" : "Fontibón",
+               "servicio_a_domicilio" : "No",
+               "telefono_a_domicilio" : "NA",
+               "pagina_web" : "www.mcdonalds.com.co"
+           },{
+               "nro" : "131",
+               "rnt" : "21594",
+               "nombre_comercial" : "Frisby G49",
+               "direccion" : "Aeropuerto El Dorado Local 1330",
+               "telefono" : "01800939000 -",
+               "localidad" : "Fontibón",
+               "servicio_a_domicilio" : "Sí",
+               "telefono_a_domicilio" : "01 800 939 000",
+               "pagina_web" : "www.frisby.com.co"
+           },{
+               "nro" : "77",
+               "rnt" : "14814",
+               "nombre_comercial" : "MC Donalds Ciudad Salitre",
+               "direccion" : "Carrera 68B No 24 - 30",
+               "telefono" : "405 98 99 - 311 491 31 76",
+               "localidad" : "Fontibón",
+               "servicio_a_domicilio" : "Sí",
+               "telefono_a_domicilio" : "400 33 33",
+               "pagina_web" : "www.mcdonalds.com.co"
+           },{
+               "nro" : "344",
+               "rnt" : "32842",
+               "nombre_comercial" : "Kokorico Natural Rotisserie",
+               "direccion" : "Aeropuerto El Dorado T 1 Hall Publico P 3 FIB 3 Local T 1 008",
+               "telefono" : "NR",
+               "localidad" : "Fontibón",
+               "servicio_a_domicilio" : "Sí",
+               "telefono_a_domicilio" : "410 01 11",
+               "pagina_web" : "www.kokoriko.com.co"
+           },{
+               "nro" : "191",
+               "rnt" : "25767",
+               "nombre_comercial" : "Hamburguesas el Corral Javeriana",
+               "direccion" : "Calle 41 No 7 - 29",
+               "telefono" : "NR",
+               "localidad" : "Chapinero",
+               "servicio_a_domicilio" : "No",
+               "telefono_a_domicilio" : "NA",
+               "pagina_web" : "www.elcorral.com"
+           },{
+               "nro" : "25",
+               "rnt" : "14422",
+               "nombre_comercial" : "Crepes & Waffles",
+               "direccion" : "Calle 100 No 8 A - 55 Local 138 - 139",
+               "telefono" : "676 76 00 Extensión 706 -",
+               "localidad" : "Chapinero",
+               "servicio_a_domicilio" : "No",
+               "telefono_a_domicilio" : "NA",
+               "pagina_web" : "www.Crepesywaffles.com"
+           },{
+               "nro" : "268",
+               "rnt" : "28132",
+               "nombre_comercial" : "Crepes & Waffles",
+               "direccion" : "Nuevo Aeropuerto Eldorado Local 4 Nivel Hall Público",
+               "telefono" : "676 73 50 -",
+               "localidad" : "Fontibón",
+               "servicio_a_domicilio" : "No",
+               "telefono_a_domicilio" : "NA",
+               "pagina_web" : "www.Crepesywaffles.com"
+           },{
+               "nro" : "165",
+               "rnt" : "23805",
+               "nombre_comercial" : "Restaurante Casa Vieja Usaquén",
+               "direccion" : "Carrera 6 No 117 - 35",
+               "telefono" : "213 32 46 - 637 48 20",
+               "localidad" : "Usaquén",
+               "servicio_a_domicilio" : "No",
+               "telefono_a_domicilio" : "NA",
+               "pagina_web" : "www.casavieja.com.co"
+           },{
+               "nro" : "351",
+               "rnt" : "32849",
+               "nombre_comercial" : "Kokorico Unicentro",
+               "direccion" : "Centro Comercial Unicentro Avenida 15 No 124 - 30  Local 242",
+               "telefono" : "NR",
+               "localidad" : "Usaquén",
+               "servicio_a_domicilio" : "Sí",
+               "telefono_a_domicilio" : "410 01 11",
+               "pagina_web" : "www.kokoriko.com.co"
+           },{
+               "nro" : "8",
+               "rnt" : "14325",
+               "nombre_comercial" : "Hamburguesas el Corral Calle 93",
+               "direccion" : "Calle  93A No 14 - 30",
+               "telefono" : "NR",
+               "localidad" : "Chapinero",
+               "servicio_a_domicilio" : "No",
+               "telefono_a_domicilio" : "NA",
+               "pagina_web" : "www.elcorral.com"
+           },{
+               "nro" : "204",
+               "rnt" : "26323",
+               "nombre_comercial" : "Hamburguesas el Corral Iserra",
+               "direccion" : "Centro Comercial Iserra 100 Transversal 55 No 98 A - 66 Local 315",
+               "telefono" : "NR",
+               "localidad" : "Barrios Unidos",
+               "servicio_a_domicilio" : "No",
+               "telefono_a_domicilio" : "NA",
+               "pagina_web" : "www.elcorral.com"
+           },{
+               "nro" : "42",
+               "rnt" : "14601",
+               "nombre_comercial" : "Bogota Beer Company",
+               "direccion" : "Carrera 11 A No 93 A - 94",
+               "telefono" : "742 92 92 Extensión 3 Opción 3 -",
+               "localidad" : "Chapinero",
+               "servicio_a_domicilio" : "NR",
+               "telefono_a_domicilio" : "NA",
+               "pagina_web" : "www.bogotabeercompany.com"
+           },{
+               "nro" : "340",
+               "rnt" : "32255",
+               "nombre_comercial" : "Andrés Exprés Caseta de Luxe",
+               "direccion" : "Centro Comercial Plaza De Las Américas Carrera 71 D No 6 - 94 Sur Local 29 - 03",
+               "telefono" : "863 78 80 -",
+               "localidad" : "Kennedy",
+               "servicio_a_domicilio" : "NR",
+               "telefono_a_domicilio" : "NA",
+               "pagina_web" : "www.andrescarnederes.com"
+           },{
+               "nro" : "341",
+               "rnt" : "32413",
+               "nombre_comercial" : "Cien Montaditos LA T",
+               "direccion" : "Carrera 13 No 83 -24",
+               "telefono" : "621 90 51 -",
+               "localidad" : "Chapinero",
+               "servicio_a_domicilio" : "NR",
+               "telefono_a_domicilio" : "NA",
+               "pagina_web" : "colombia.100montaditos.com"
+           },{
+               "nro" : "304",
+               "rnt" : "30220",
+               "nombre_comercial" : "Don Jediondo Sopitas y Parrilla",
+               "direccion" : "Centro Comercial Gran Estación Avenida Calle 26 No 62 - 47 Local 304",
+               "telefono" : "572 00 24 - 650 91 40",
+               "localidad" : "Teusaquillo",
+               "servicio_a_domicilio" : "Sí",
+               "telefono_a_domicilio" : "572 00 24",
+               "pagina_web" : "www.donjediondo.com"
+           },{
+               "nro" : "301",
+               "rnt" : "30217",
+               "nombre_comercial" : "Don Jediondo Sopitas y Parrilla",
+               "direccion" : "Centro Comercial Unicentro Avenida 15 No 124 - 30 Local 418",
+               "telefono" : "213 06 66 -",
+               "localidad" : "Usaquén",
+               "servicio_a_domicilio" : "Sí",
+               "telefono_a_domicilio" : "213 06 66",
+               "pagina_web" : "www.donjediondo.com"
+           },{
+               "nro" : "360",
+               "rnt" : "33553",
+               "nombre_comercial" : "PPC Pollo; Pizza; Carne",
+               "direccion" : "Carrera 7 No 11 - 96/98",
+               "telefono" : "310 349 85 95 -",
+               "localidad" : "Candelaria",
+               "servicio_a_domicilio" : "NR",
+               "telefono_a_domicilio" : "NA",
+               "pagina_web" : "www.ppc.com.co"
+           },{
+               "nro" : "90",
+               "rnt" : "15682",
+               "nombre_comercial" : "Tramonti",
+               "direccion" : "Carrera 1 No 93 - 50",
+               "telefono" : "218 24 00 - 636 19 95",
+               "localidad" : "Chapinero",
+               "servicio_a_domicilio" : "NR",
+               "telefono_a_domicilio" : "NA",
+               "pagina_web" : "www.tramonti.com.co"
+           },{
+               "nro" : "94",
+               "rnt" : "15884",
+               "nombre_comercial" : "Corral Gourmet Zona G",
+               "direccion" : "Calle 69 A No 5 - 09",
+               "telefono" : "217 11 23 -",
+               "localidad" : "Chapinero",
+               "servicio_a_domicilio" : "NR",
+               "telefono_a_domicilio" : "NA",
+               "pagina_web" : "www.elcorralgourmet.com"
+           },{
+               "nro" : "396",
+               "rnt" : "34925",
+               "nombre_comercial" : "La Hamburgueseria  Emaus",
+               "direccion" : "Calle 70 No 4 - 69",
+               "telefono" : "321 33 50 - 314 382 36 52",
+               "localidad" : "Chapinero",
+               "servicio_a_domicilio" : "Sí",
+               "telefono_a_domicilio" : "600 09 69",
+               "pagina_web" : "www.lahamburgueseria.com"
+           },{
+               "nro" : "211",
+               "rnt" : "26330",
+               "nombre_comercial" : "Corral Gourmet Gran Estación",
+               "direccion" : "Centro Comercial Gran Estación Avenida Calle 26 No 62 - 47 Local  343",
+               "telefono" : "221 41 91 -",
+               "localidad" : "Teusaquillo",
+               "servicio_a_domicilio" : "NR",
+               "telefono_a_domicilio" : "NA",
+               "pagina_web" : "www.elcorralgourmet.com"
+           },{
+               "nro" : "220",
+               "rnt" : "26367",
+               "nombre_comercial" : "Mc Donalds GALERIA 2",
+               "direccion" : "Calle 53 No 25 - 30",
+               "telefono" : "653 80 00 -",
+               "localidad" : "Teusaquillo",
+               "servicio_a_domicilio" : "NR",
+               "telefono_a_domicilio" : "NA",
+               "pagina_web" : "www.mcdonalds.com.co"
+           },{
+               "nro" : "313",
+               "rnt" : "30766",
+               "nombre_comercial" : "Mc Donalds Tunal",
+               "direccion" : "Calle 47 B Sur No 24 B - 33",
+               "telefono" : "653 80 00 -",
+               "localidad" : "Tunjuelito",
+               "servicio_a_domicilio" : "NR",
+               "telefono_a_domicilio" : "NA",
+               "pagina_web" : "www.mcdonalds.com.co"
+           },{
+               "nro" : "123",
+               "rnt" : "20391",
+               "nombre_comercial" : "Brasa Roja Plaza De Las Americas",
+               "direccion" : "Centro Comercial Plaza de Las Américas Carrera 71 D No 6 - 94 Sur Local 2905",
+               "telefono" : "NR",
+               "localidad" : "Kennedy",
+               "servicio_a_domicilio" : "Sí",
+               "telefono_a_domicilio" : "600 45 65",
+               "pagina_web" : "labrasaroja.com"
+           },{
+               "nro" : "216",
+               "rnt" : "26357",
+               "nombre_comercial" : "La Brasa Roja Centro Comercial Santafé",
+               "direccion" : "Centro Comercial Santafé Calle 185 No 45 - 03 Local 392",
+               "telefono" : "NR",
+               "localidad" : "Usaquén",
+               "servicio_a_domicilio" : "Sí",
+               "telefono_a_domicilio" : "600 45 65",
+               "pagina_web" : "labrasaroja.com"
+           },{
+               "nro" : "171",
+               "rnt" : "24344",
+               "nombre_comercial" : "Ristorante Bellini",
+               "direccion" : "Carrera 13 No 83 - 52",
+               "telefono" : "236 44 01 - 636 90 03",
+               "localidad" : "Chapinero",
+               "servicio_a_domicilio" : "Sí",
+               "telefono_a_domicilio" : "236 44 01",
+               "pagina_web" : "www.bellinirestaurante.com"
+           },{
+               "nro" : "32",
+               "rnt" : "14481",
+               "nombre_comercial" : "Archies Chico",
+               "direccion" : "Carrera 15 No 96 - 67",
+               "telefono" : "610 66 78 -",
+               "localidad" : "Chapinero",
+               "servicio_a_domicilio" : "Sí",
+               "telefono_a_domicilio" : "605 05 05",
+               "pagina_web" : "www.archies.co"
+           },{
+               "nro" : "38",
+               "rnt" : "14491",
+               "nombre_comercial" : "Archies Centro Internacional",
+               "direccion" : "Carrera 7 No 27 - 80",
+               "telefono" : "NR",
+               "localidad" : "Santafé",
+               "servicio_a_domicilio" : "Sí",
+               "telefono_a_domicilio" : "605 05 05",
+               "pagina_web" : "www.archies.co"
+           },{
+               "nro" : "235",
+               "rnt" : "26524",
+               "nombre_comercial" : "T-Bone",
+               "direccion" : "Carrera 4 No 12 C - 34",
+               "telefono" : "283 59 89 -",
+               "localidad" : "Candelaria",
+               "servicio_a_domicilio" : "NR",
+               "telefono_a_domicilio" : "NA",
+               "pagina_web" : "restaurante-tbone.co"
+           },{
+               "nro" : "377",
+               "rnt" : "34250",
+               "nombre_comercial" : "Bogota Beer Company SAS",
+               "direccion" : "Centro Comercial Centro Mayor Calle 38 A Sur No 34 D - 51 Local 3051 Local 3052",
+               "telefono" : "3002729 -",
+               "localidad" : "Antonio Nariño",
+               "servicio_a_domicilio" : "NR",
+               "telefono_a_domicilio" : "NA",
+               "pagina_web" : "www.bogotabeercompany.com"
+           },{
+               "nro" : "133",
+               "rnt" : "21678",
+               "nombre_comercial" : "teriyki Sushi Bar",
+               "direccion" : "Carrera 13 No 93 - 71",
+               "telefono" : "617 02 54 -",
+               "localidad" : "Chapinero",
+               "servicio_a_domicilio" : "Sí",
+               "telefono_a_domicilio" : "600 09 60",
+               "pagina_web" : "www.teriyaki.com.co"
+           },{
+               "nro" : "19",
+               "rnt" : "14353",
+               "nombre_comercial" : "Beer Station Zona T",
+               "direccion" : "Calle 83 No 12 A - 63",
+               "telefono" : "236 93 20 -",
+               "localidad" : "Chapinero",
+               "servicio_a_domicilio" : "NR",
+               "telefono_a_domicilio" : "NA",
+               "pagina_web" : "www.beerstation.com.co"
+           },{
+               "nro" : "43",
+               "rnt" : "14602",
+               "nombre_comercial" : "Bogota Beer Company",
+               "direccion" : "Carrera 6 No 119 - 24",
+               "telefono" : "742 92 92 Extensión 3 Opción 4 -",
+               "localidad" : "Usaquén",
+               "servicio_a_domicilio" : "NR",
+               "telefono_a_domicilio" : "NA",
+               "pagina_web" : "www.bogotabeercompany.com"
+           },{
+               "nro" : "279",
+               "rnt" : "29796",
+               "nombre_comercial" : "LA Brasa Roja Hacienda Santa Barbara",
+               "direccion" : "Calle 114 No 6 A - 92 Local 108",
+               "telefono" : "NR",
+               "localidad" : "Usaquén",
+               "servicio_a_domicilio" : "Sí",
+               "telefono_a_domicilio" : "600 45 65",
+               "pagina_web" : "labrasaroja.com"
+           },{
+               "nro" : "75",
+               "rnt" : "14812",
+               "nombre_comercial" : "MC Donalds Atlantis",
+               "direccion" : "Centro Comercial Atlantis Calle 81 No 13 - 05 Local 311",
+               "telefono" : "531 19 14 - 311 491 31 73",
+               "localidad" : "Chapinero",
+               "servicio_a_domicilio" : "No",
+               "telefono_a_domicilio" : "NA",
+               "pagina_web" : "www.mcdonalds.com.co"
+           },{
+               "nro" : "189",
+               "rnt" : "25702",
+               "nombre_comercial" : "Sipote Burrito",
+               "direccion" : "Centro Comercial Andino Carrera 11 No 82 - 71 Local 403",
+               "telefono" : "644 77 88 -",
+               "localidad" : "Chapinero",
+               "servicio_a_domicilio" : "Sí",
+               "telefono_a_domicilio" : "644 77 88",
+               "pagina_web" : "www.sipoteburrito.com"
+           },{
+               "nro" : "110",
+               "rnt" : "18694",
+               "nombre_comercial" : "Crepes & Waffles",
+               "direccion" : "Carrera 6 No 119  -  56",
+               "telefono" : "676 76 00 Extensión 733 -",
+               "localidad" : "Usaquén",
+               "servicio_a_domicilio" : "No",
+               "telefono_a_domicilio" : "NA",
+               "pagina_web" : "www.Crepesywaffles.com"
+           },{
+               "nro" : "111",
+               "rnt" : "18832",
+               "nombre_comercial" : "Hamburguesas el Corral Avenida Chile",
+               "direccion" : "Calle 73 No 10 - 83 Local 6 y 7",
+               "telefono" : "NR",
+               "localidad" : "Chapinero",
+               "servicio_a_domicilio" : "No",
+               "telefono_a_domicilio" : "NA",
+               "pagina_web" : "www.elcorral.com"
+           },{
+               "nro" : "7",
+               "rnt" : "14324",
+               "nombre_comercial" : "Hamburguesas el Corral Hacienda",
+               "direccion" : "Centro Comercial Hacienda Santa Bárbara Carrera 7 No 115 - 72 Local E-111",
+               "telefono" : "NR",
+               "localidad" : "Usaquén",
+               "servicio_a_domicilio" : "No",
+               "telefono_a_domicilio" : "NA",
+               "pagina_web" : "www.elcorral.com"
+           },{
+               "nro" : "100",
+               "rnt" : "16928",
+               "nombre_comercial" : "Sopas de Mamá y Postres de la Abuela - sucursal salitre",
+               "direccion" : "Avenida El Dorado No 68C - 61 Local 1-24",
+               "telefono" : "658 48 89 -",
+               "localidad" : "Fontibón",
+               "servicio_a_domicilio" : "NR",
+               "telefono_a_domicilio" : "NA",
+               "pagina_web" : "www.sopasypostres.com.co"
+           },{
+               "nro" : "190",
+               "rnt" : "25766",
+               "nombre_comercial" : "Hamburguesas el Corral Quinta de Bolívar",
+               "direccion" : "Calle 19 A No 04 - 08 Este",
+               "telefono" : "NR",
+               "localidad" : "Candelaria",
+               "servicio_a_domicilio" : "No",
+               "telefono_a_domicilio" : "NA",
+               "pagina_web" : "www.elcorral.com"
+           },{
+               "nro" : "167",
+               "rnt" : "23891",
+               "nombre_comercial" : "La Romana Carrera 7",
+               "direccion" : "Carrera 7 No 19 - 48",
+               "telefono" : "283 27 30 -",
+               "localidad" : "Santafé",
+               "servicio_a_domicilio" : "NR",
+               "telefono_a_domicilio" : "NA",
+               "pagina_web" : "www.laromana.com.co"
+           },{
+               "nro" : "286",
+               "rnt" : "29954",
+               "nombre_comercial" : "Diner Unicentro",
+               "direccion" : "Avenida 15 No 123 - 30 Local 2 142",
+               "telefono" : "213 02 45 -",
+               "localidad" : "Usaquén",
+               "servicio_a_domicilio" : "Sí",
+               "telefono_a_domicilio" : "213 02 45",
+               "pagina_web" : "NR"
+           },{
+               "nro" : "137",
+               "rnt" : "21935",
+               "nombre_comercial" : "La Plaza De Andrés",
+               "direccion" : "Calle 82 No 12  -  21",
+               "telefono" : "863 78 80 -",
+               "localidad" : "Chapinero",
+               "servicio_a_domicilio" : "No",
+               "telefono_a_domicilio" : "NA",
+               "pagina_web" : "www.andrescarnederes.com"
+           },{
+               "nro" : "99",
+               "rnt" : "16927",
+               "nombre_comercial" : "Sopas de Mamá y Postres de la Abuela Sucursal el Retiro",
+               "direccion" : "Carrera 9 No 81 A - 09",
+               "telefono" : "658 48 90 -",
+               "localidad" : "Chapinero",
+               "servicio_a_domicilio" : "NR",
+               "telefono_a_domicilio" : "NA",
+               "pagina_web" : "www.sopasypostres.com.co"
+           },{
+               "nro" : "36",
+               "rnt" : "14486",
+               "nombre_comercial" : "Archies Quinta Camacho",
+               "direccion" : "Calle 69 A No 10 - 03",
+               "telefono" : "321 23 04 -",
+               "localidad" : "Chapinero",
+               "servicio_a_domicilio" : "Sí",
+               "telefono_a_domicilio" : "605 05 05",
+               "pagina_web" : "www.archies.co"
+           },{
+               "nro" : "61",
+               "rnt" : "14665",
+               "nombre_comercial" : "Cotidiano Café Brasserie",
+               "direccion" : "Centro Comercial Andino Plaza Carrera 11 No 82 - 71 Local 402",
+               "telefono" : "654 54 54 -",
+               "localidad" : "Chapinero",
+               "servicio_a_domicilio" : "Sí",
+               "telefono_a_domicilio" : "654 54 54",
+               "pagina_web" : "www.elcotidiano.com.co"
+           },{
+               "nro" : "84",
+               "rnt" : "15016",
+               "nombre_comercial" : "Oma Café Restaurante Bogotá Andino",
+               "direccion" : "Centro Comercial Andino Plaza Carrera 11 No 82 - 71 Local 347",
+               "telefono" : "NR",
+               "localidad" : "Chapinero",
+               "servicio_a_domicilio" : "NR",
+               "telefono_a_domicilio" : "NA",
+               "pagina_web" : "http://173.254.122.220/"
+           },{
+               "nro" : "122",
+               "rnt" : "19916",
+               "nombre_comercial" : "Diana García Chef en Movimiento",
+               "direccion" : "Carrera 7 No 70 - 94",
+               "telefono" : "235 68 05 - 321 34 31",
+               "localidad" : "Chapinero",
+               "servicio_a_domicilio" : "Sí",
+               "telefono_a_domicilio" : "235 68 05",
+               "pagina_web" : "www.restaurantedianagarcia.com"
+           },{
+               "nro" : "348",
+               "rnt" : "32846",
+               "nombre_comercial" : "Mercado Cocina Local Sabor Consciente",
+               "direccion" : "Calle 93 A No 12 - 73",
+               "telefono" : "236 25 00 -",
+               "localidad" : "Chapinero",
+               "servicio_a_domicilio" : "NR",
+               "telefono_a_domicilio" : "NA",
+               "pagina_web" : "www.mcdonalds.com.co"
+           },{
+               "nro" : "199",
+               "rnt" : "26318",
+               "nombre_comercial" : "Hamburguesas el Corral Santafé",
+               "direccion" : "Centro Comercial Santafé Calle 185 No 45 - 03 Local 381",
+               "telefono" : "NR",
+               "localidad" : "Usaquén",
+               "servicio_a_domicilio" : "No",
+               "telefono_a_domicilio" : "NA",
+               "pagina_web" : "www.elcorral.com"
+           },{
+               "nro" : "37",
+               "rnt" : "14490",
+               "nombre_comercial" : "Archies Calle 71",
+               "direccion" : "Calle 71 No 4 - 55",
+               "telefono" : "235 11 74 - 545 10 33",
+               "localidad" : "Chapinero",
+               "servicio_a_domicilio" : "Sí",
+               "telefono_a_domicilio" : "605 05 05",
+               "pagina_web" : "www.archies.co"
+           },{
+               "nro" : "355",
+               "rnt" : "33068",
+               "nombre_comercial" : "Hamburguesas el Corral Calle 85",
+               "direccion" : "Calle 85 No 13 - 77",
+               "telefono" : "NR",
+               "localidad" : "Chapinero",
+               "servicio_a_domicilio" : "No",
+               "telefono_a_domicilio" : "NA",
+               "pagina_web" : "www.elcorral.com"
+           },{
+               "nro" : "106",
+               "rnt" : "17692",
+               "nombre_comercial" : "Hamburguesas el Corral La Candelaria",
+               "direccion" : "Calle 11 No 2 - 16",
+               "telefono" : "NR",
+               "localidad" : "Candelaria",
+               "servicio_a_domicilio" : "No",
+               "telefono_a_domicilio" : "NA",
+               "pagina_web" : "www.elcorral.com"
+           },{
+               "nro" : "180",
+               "rnt" : "25621",
+               "nombre_comercial" : "Restaurantes Brasa Brasil",
+               "direccion" : "Calle 118 No 19  12",
+               "telefono" : "214 20 25 - 214 80 64",
+               "localidad" : "Usaquén",
+               "servicio_a_domicilio" : "No",
+               "telefono_a_domicilio" : "NA",
+               "pagina_web" : "www.brasabrasil.com"
+           },{
+               "nro" : "20",
+               "rnt" : "14354",
+               "nombre_comercial" : "Hamburguesas el Corral Texaco 1",
+               "direccion" : "Carrera 7 No 69 - 26",
+               "telefono" : "NR",
+               "localidad" : "Chapinero",
+               "servicio_a_domicilio" : "No",
+               "telefono_a_domicilio" : "NA",
+               "pagina_web" : "www.elcorral.com"
+           },{
+               "nro" : "139",
+               "rnt" : "22089",
+               "nombre_comercial" : "Marfalitos",
+               "direccion" : "Calle 12 No 7 - 32 Piso 4",
+               "telefono" : "334 19 26 - 282 39 21",
+               "localidad" : "Candelaria",
+               "servicio_a_domicilio" : "Sí",
+               "telefono_a_domicilio" : "334 19 26",
+               "pagina_web" : "NR"
+           },{
+               "nro" : "115",
+               "rnt" : "19008",
+               "nombre_comercial" : "Osaki",
+               "direccion" : "Calle 71 No 5 - 10",
+               "telefono" : "NR",
+               "localidad" : "Chapinero",
+               "servicio_a_domicilio" : "Sí",
+               "telefono_a_domicilio" : "644 77 77",
+               "pagina_web" : "www.osaki.com.co"
+           },{
+               "nro" : "170",
+               "rnt" : "24254",
+               "nombre_comercial" : "Galeria Café Libro Restaurante Bar",
+               "direccion" : "Carrera 11 A No 93 - 42",
+               "telefono" : "218 34 35 -",
+               "localidad" : "Chapinero",
+               "servicio_a_domicilio" : "NR",
+               "telefono_a_domicilio" : "NA",
+               "pagina_web" : "www.galeriacafelibro.com.co"
+           },{
+               "nro" : "316",
+               "rnt" : "30769",
+               "nombre_comercial" : "PPC Pollo; Pizza; Carne",
+               "direccion" : "Centro Comercial Calima Avenida Calle 19 No 28 - 10 Local 28",
+               "telefono" : "487 82 01 -",
+               "localidad" : "Los Mártires",
+               "servicio_a_domicilio" : "Sí",
+               "telefono_a_domicilio" : "359 91 00",
+               "pagina_web" : "www.ppc.com.co"
+           },{
+               "nro" : "79",
+               "rnt" : "14893",
+               "nombre_comercial" : "Taqueria Calle 116",
+               "direccion" : "Calle 116 No 15 - 44 LC 2",
+               "telefono" : "616 76 71 - 616 75 68",
+               "localidad" : "Chapinero",
+               "servicio_a_domicilio" : "NR",
+               "telefono_a_domicilio" : "NA",
+               "pagina_web" : "NR"
+           },{
+               "nro" : "309",
+               "rnt" : "30618",
+               "nombre_comercial" : "Mc Donalds Calle 72",
+               "direccion" : "Carrera 9 No 71 - 31/35",
+               "telefono" : "653 80 00 -",
+               "localidad" : "Chapinero",
+               "servicio_a_domicilio" : "NR",
+               "telefono_a_domicilio" : "NA",
+               "pagina_web" : "www.mcdonalds.com.co"
+           },{
+               "nro" : "108",
+               "rnt" : "17881",
+               "nombre_comercial" : "El Pórtico",
+               "direccion" : "Kilometro 19 Autopista Norte",
+               "telefono" : "676 01 39 - 676 07 52",
+               "localidad" : "NA",
+               "servicio_a_domicilio" : "NR",
+               "telefono_a_domicilio" : "NA",
+               "pagina_web" : "www.elportico.com.co"
+           },{
+               "nro" : "239",
+               "rnt" : "26767",
+               "nombre_comercial" : "El Gato Gris",
+               "direccion" : "Carrera 1A No 12 B  - 12",
+               "telefono" : "342 17 16 -",
+               "localidad" : "Candelaria",
+               "servicio_a_domicilio" : "NR",
+               "telefono_a_domicilio" : "NA",
+               "pagina_web" : "www.gatogris.com"
+           },{
+               "nro" : "179",
+               "rnt" : "25608",
+               "nombre_comercial" : "Papa Jhons USAQUEN",
+               "direccion" : "Calle 121 No 6 -11",
+               "telefono" : "NR",
+               "localidad" : "Usaquén",
+               "servicio_a_domicilio" : "NR",
+               "telefono_a_domicilio" : "NA",
+               "pagina_web" : "www.papajohns.com.co"
+           },{
+               "nro" : "151",
+               "rnt" : "22604",
+               "nombre_comercial" : "Amarti",
+               "direccion" : "Calle 119 No 6 - 24",
+               "telefono" : "214 90 17 - 214 9184",
+               "localidad" : "Usaquén",
+               "servicio_a_domicilio" : "Sí",
+               "telefono_a_domicilio" : "214 90 17",
+               "pagina_web" : "NR"
+           },{
+               "nro" : "292",
+               "rnt" : "30006",
+               "nombre_comercial" : "El Carnal",
+               "direccion" : "Centro Comercial Centro Mayor Calle 38 A Sur No 34 D - 51 Local  2114",
+               "telefono" : "NR",
+               "localidad" : "Antonio Nariño",
+               "servicio_a_domicilio" : "No",
+               "telefono_a_domicilio" : "NA",
+               "pagina_web" : "elcarnal.com.co"
+           },{
+               "nro" : "329",
+               "rnt" : "31413",
+               "nombre_comercial" : "Andrés Exprés Caseta de Luxe",
+               "direccion" : "Centro Comercial Iserra 100 Transversal 55 No 98 A - 96 Local 324 - 325",
+               "telefono" : "863 78 80 -",
+               "localidad" : "Barrios Unidos",
+               "servicio_a_domicilio" : "NR",
+               "telefono_a_domicilio" : "NA",
+               "pagina_web" : "www.andrescarnederes.com"
+           },{
+               "nro" : "217",
+               "rnt" : "26364",
+               "nombre_comercial" : "MC Donalds Bulevar Niza",
+               "direccion" : "Avenida Carrera 58 No 127 - 59 Local  2128/2129",
+               "telefono" : "613 46 65 - 313 870 63 40",
+               "localidad" : "Suba",
+               "servicio_a_domicilio" : "No",
+               "telefono_a_domicilio" : "NA",
+               "pagina_web" : "www.mcdonalds.com.co"
+           },{
+               "nro" : "21",
+               "rnt" : "14397",
+               "nombre_comercial" : "La Cigale",
+               "direccion" : "Calle 69 A No 4 - 93",
+               "telefono" : "249 68 39 - 212 77 85",
+               "localidad" : "Chapinero",
+               "servicio_a_domicilio" : "Sí",
+               "telefono_a_domicilio" : "249 68 39",
+               "pagina_web" : "www.lacigale.com.co"
+           },{
+               "nro" : "382",
+               "rnt" : "34308",
+               "nombre_comercial" : "Restaurante Donde Chucho 93",
+               "direccion" : "Calle 93 B No 13 - 61 Local 2",
+               "telefono" : "300 08 58 -",
+               "localidad" : "Chapinero",
+               "servicio_a_domicilio" : "NR",
+               "telefono_a_domicilio" : "NA",
+               "pagina_web" : "NR"
+           },{
+               "nro" : "118",
+               "rnt" : "19082",
+               "nombre_comercial" : "Andrés D.C",
+               "direccion" : "Calle 82 No 12 - 21",
+               "telefono" : "863 78 80 -",
+               "localidad" : "Chapinero",
+               "servicio_a_domicilio" : "No",
+               "telefono_a_domicilio" : "NA",
+               "pagina_web" : "www.andrescarnederes.com"
+           },{
+               "nro" : "156",
+               "rnt" : "22611",
+               "nombre_comercial" : "Café Illy 87",
+               "direccion" : "Carrera 15 No 87 - 98",
+               "telefono" : "236 67 85 -",
+               "localidad" : "Chapinero",
+               "servicio_a_domicilio" : "NR",
+               "telefono_a_domicilio" : "NA",
+               "pagina_web" : "www.illy.com"
+           },{
+               "nro" : "109",
+               "rnt" : "18235",
+               "nombre_comercial" : "Frisby G17",
+               "direccion" : "Calle 71 No 9 -  21 / 39 LC 1  Plazoleta Quinta de Camacho",
+               "telefono" : "01 800 939 000 -",
+               "localidad" : "Chapinero",
+               "servicio_a_domicilio" : "Sí",
+               "telefono_a_domicilio" : "01 800 939 000",
+               "pagina_web" : "www.frisby.com.co"
+           },{
+               "nro" : "121",
+               "rnt" : "19200",
+               "nombre_comercial" : "Hamburguesas el Corral Parque 97",
+               "direccion" : "Avenida 19 No 97 - 05 Local 1-2",
+               "telefono" : "NR",
+               "localidad" : "Chapinero",
+               "servicio_a_domicilio" : "No",
+               "telefono_a_domicilio" : "NA",
+               "pagina_web" : "www.elcorral.com"
+           },{
+               "nro" : "226",
+               "rnt" : "26439",
+               "nombre_comercial" : "Crepes & Waffles",
+               "direccion" : "Avenida Carrera 9 No 110 - 50 Local 304/305",
+               "telefono" : "676 76 00 Extensión 723 -",
+               "localidad" : "Usaquén",
+               "servicio_a_domicilio" : "No",
+               "telefono_a_domicilio" : "NA",
+               "pagina_web" : "www.Crepesywaffles.com"
+           },{
+               "nro" : "291",
+               "rnt" : "30004",
+               "nombre_comercial" : "El Carnal",
+               "direccion" : "Calle 85 No 13 -  20",
+               "telefono" : "NR",
+               "localidad" : "Chapinero",
+               "servicio_a_domicilio" : "No",
+               "telefono_a_domicilio" : "NA",
+               "pagina_web" : "elcarnal.com.co"
+           },{
+               "nro" : "178",
+               "rnt" : "25361",
+               "nombre_comercial" : "MC Donalds Usaquén",
+               "direccion" : "Calle 118 No 6A - 76",
+               "telefono" : "637 84 81 - 320 307 99 26",
+               "localidad" : "Usaquén",
+               "servicio_a_domicilio" : "Sí",
+               "telefono_a_domicilio" : "400 33 33",
+               "pagina_web" : "www.mcdonalds.com.co"
+           },{
+               "nro" : "280",
+               "rnt" : "29801",
+               "nombre_comercial" : "La Brasa Roja Calle 67",
+               "direccion" : "Carrera 11 No 66 - 75",
+               "telefono" : "255 84 18 -",
+               "localidad" : "Chapinero",
+               "servicio_a_domicilio" : "Sí",
+               "telefono_a_domicilio" : "600 45 65",
+               "pagina_web" : "labrasaroja.com"
+           },{
+               "nro" : "40",
+               "rnt" : "14588",
+               "nombre_comercial" : "Restaurante Cali Mío",
+               "direccion" : "Calle 85 No 16 - 48 Local 1",
+               "telefono" : "256 37 48 -",
+               "localidad" : "Chapinero",
+               "servicio_a_domicilio" : "Sí",
+               "telefono_a_domicilio" : "600 43 00",
+               "pagina_web" : "www.calimio.com.co"
+           },{
+               "nro" : "114",
+               "rnt" : "19007",
+               "nombre_comercial" : "Central Cevichería",
+               "direccion" : "Carrera 13 No 85 - 14",
+               "telefono" : "644 77 66 -",
+               "localidad" : "Chapinero",
+               "servicio_a_domicilio" : "NR",
+               "telefono_a_domicilio" : "NA",
+               "pagina_web" : "www.centralcevicheria.com"
+           },{
+               "nro" : "317",
+               "rnt" : "30769",
+               "nombre_comercial" : "PPC Pollo; Pizza; Carne",
+               "direccion" : "Centro Comercial Calima Avenida Calle 19 No 28 - 80 Local C-29",
+               "telefono" : "487 82 01 -",
+               "localidad" : "Los Mártires",
+               "servicio_a_domicilio" : "NR",
+               "telefono_a_domicilio" : "NA",
+               "pagina_web" : "www.ppc.com.co"
+           },{
+               "nro" : "338",
+               "rnt" : "32252",
+               "nombre_comercial" : "Kokoriko Central Domicilios Usaquén",
+               "direccion" : "Calle 119 No 9 - 04",
+               "telefono" : "NR",
+               "localidad" : "Usaquén",
+               "servicio_a_domicilio" : "Sí",
+               "telefono_a_domicilio" : "410 01 11",
+               "pagina_web" : "www.kokoriko.com.co"
+           },{
+               "nro" : "311",
+               "rnt" : "30764",
+               "nombre_comercial" : "PPC Pollo; Pizza; Carne",
+               "direccion" : "Calle 53 No 25 - 53",
+               "telefono" : "701 81 46 - 217 46 50",
+               "localidad" : "Teusaquillo",
+               "servicio_a_domicilio" : "Sí",
+               "telefono_a_domicilio" : "359 91 00",
+               "pagina_web" : "www.ppc.com.co"
+           },{
+               "nro" : "5",
+               "rnt" : "11511",
+               "nombre_comercial" : "Kokoriko Puente Aéreo",
+               "direccion" : "Puente Aéreo  Local  L-2 209 Aeropuerto",
+               "telefono" : "NR",
+               "localidad" : "Fontibón",
+               "servicio_a_domicilio" : "Sí",
+               "telefono_a_domicilio" : "410 01 11",
+               "pagina_web" : "www.kokoriko.com.co"
+           },{
+               "nro" : "184",
+               "rnt" : "25666",
+               "nombre_comercial" : "Crepes & Waffles",
+               "direccion" : "Carrera 9 No 73    33",
+               "telefono" : "676 76 00 Extensión 707 -",
+               "localidad" : "Chapinero",
+               "servicio_a_domicilio" : "No",
+               "telefono_a_domicilio" : "NA",
+               "pagina_web" : "www.Crepesywaffles.com"
+           },{
+               "nro" : "182",
+               "rnt" : "25664",
+               "nombre_comercial" : "Crepes & Waffles",
+               "direccion" : "Calle 81 No 13  -  05 Local 414",
+               "telefono" : "676 76 00 Extensión 745 -",
+               "localidad" : "Chapinero",
+               "servicio_a_domicilio" : "No",
+               "telefono_a_domicilio" : "NA",
+               "pagina_web" : "www.Crepesywaffles.com"
+           },{
+               "nro" : "76",
+               "rnt" : "14813",
+               "nombre_comercial" : "MC Donalds Salitre",
+               "direccion" : "Centro Comercial Salitre Plaza Carrera 68 B No 24  - 39 Local 3-102/3-104",
+               "telefono" : "416 96 81 - 311 561 08 63",
+               "localidad" : "Fontibón",
+               "servicio_a_domicilio" : "No",
+               "telefono_a_domicilio" : "NA",
+               "pagina_web" : "www.mcdonalds.com.co"
+           },{
+               "nro" : "47",
+               "rnt" : "14630",
+               "nombre_comercial" : "Restaurante Wok",
+               "direccion" : "Carrera 9  69A -  63",
+               "telefono" : "212 01 67 -",
+               "localidad" : "Chapinero",
+               "servicio_a_domicilio" : "NR",
+               "telefono_a_domicilio" : "NA",
+               "pagina_web" : "www.wok.com.co"
+           },{
+               "nro" : "116",
+               "rnt" : "19009",
+               "nombre_comercial" : "Osaki  93",
+               "direccion" : "Carrera 11 A No 93 A - 46 Local 101",
+               "telefono" : "NR",
+               "localidad" : "Chapinero",
+               "servicio_a_domicilio" : "Sí",
+               "telefono_a_domicilio" : "644 77 77",
+               "pagina_web" : "www.osaki.com.co"
+           },{
+               "nro" : "101",
+               "rnt" : "16930",
+               "nombre_comercial" : "Sopas de Mamá y Postres de la Abuela sucursal centro Internacional",
+               "direccion" : "Carrera 13 No 27 - 98 Local 241 Centro Internacional",
+               "telefono" : "658 48 91 -",
+               "localidad" : "Santafé",
+               "servicio_a_domicilio" : "NR",
+               "telefono_a_domicilio" : "NA",
+               "pagina_web" : "www.sopasypostres.com.co"
+           },{
+               "nro" : "209",
+               "rnt" : "26328",
+               "nombre_comercial" : "Hamburguesas el Corral Bulevar Niza",
+               "direccion" : "Avenida Carrera 58 No 127 - 59 Local 318 - 319 - 320",
+               "telefono" : "NR",
+               "localidad" : "Suba",
+               "servicio_a_domicilio" : "No",
+               "telefono_a_domicilio" : "NA",
+               "pagina_web" : "www.elcorral.com"
+           },{
+               "nro" : "293",
+               "rnt" : "30007",
+               "nombre_comercial" : "El Carnal",
+               "direccion" : "Centro Comercial Plaza De Las Américas Carrera 71 D No 6 - 94 Sur Local 2910",
+               "telefono" : "NR",
+               "localidad" : "Kennedy",
+               "servicio_a_domicilio" : "No",
+               "telefono_a_domicilio" : "NA",
+               "pagina_web" : "elcarnal.com.co"
+           },{
+               "nro" : "130",
+               "rnt" : "21587",
+               "nombre_comercial" : "Restaurante 69 Oyster Bar",
+               "direccion" : "Calle 69A No 5 - 59 Interior 1",
+               "telefono" : "249 04 26 -",
+               "localidad" : "Chapinero",
+               "servicio_a_domicilio" : "No",
+               "telefono_a_domicilio" : "NA",
+               "pagina_web" : "NR"
+           },{
+               "nro" : "255",
+               "rnt" : "27307",
+               "nombre_comercial" : "Frisby H16",
+               "direccion" : "Centro Comercial Andino Carrera A 11 No 82 - 11  Local 419",
+               "telefono" : "01800939000 -",
+               "localidad" : "Chapinero",
+               "servicio_a_domicilio" : "Sí",
+               "telefono_a_domicilio" : "01 800 939 000",
+               "pagina_web" : "www.frisby.com.co"
+           },{
+               "nro" : "104",
+               "rnt" : "17422",
+               "nombre_comercial" : "Restaurante Wok",
+               "direccion" : "Carrera 6 BIS 29 -  07",
+               "telefono" : "287 31 94 -",
+               "localidad" : "Santafé",
+               "servicio_a_domicilio" : "NR",
+               "telefono_a_domicilio" : "NA",
+               "pagina_web" : "www.wok.com.co"
+           },{
+               "nro" : "366",
+               "rnt" : "33889",
+               "nombre_comercial" : "Sr Choo",
+               "direccion" : "Carrera 13 No 83 - 34",
+               "telefono" : "600 09 60 - 218 52 34",
+               "localidad" : "Chapinero",
+               "servicio_a_domicilio" : "Sí",
+               "telefono_a_domicilio" : "600 09 60",
+               "pagina_web" : "http://54.84.219.185/~srch4752/"
+           },{
+               "nro" : "322",
+               "rnt" : "31033",
+               "nombre_comercial" : "Bagatelle S.A.S.",
+               "direccion" : "Diagonal 70 A No 4 - 99",
+               "telefono" : "310 44 69 -",
+               "localidad" : "Chapinero",
+               "servicio_a_domicilio" : "Sí",
+               "telefono_a_domicilio" : "310 44 69",
+               "pagina_web" : "www.Bagatelle.com.co"
+           },{
+               "nro" : "240",
+               "rnt" : "27168",
+               "nombre_comercial" : "Carbón 100 Unicentro",
+               "direccion" : "Centro Comercial Unicentro Avenida 15 No 124  - 30 Local 408",
+               "telefono" : "213 08 99 - 674 05 28",
+               "localidad" : "Usaquén",
+               "servicio_a_domicilio" : "No",
+               "telefono_a_domicilio" : "NA",
+               "pagina_web" : "carbon100xilvestre.com.co"
+           },{
+               "nro" : "168",
+               "rnt" : "23892",
+               "nombre_comercial" : "Cafetería Romana",
+               "direccion" : "Avenida Jiménez No  6 - 65",
+               "telefono" : "334 81 35 -",
+               "localidad" : "Candelaria",
+               "servicio_a_domicilio" : "Sí",
+               "telefono_a_domicilio" : "334 81 35",
+               "pagina_web" : "NR"
+           },{
+               "nro" : "205",
+               "rnt" : "26324",
+               "nombre_comercial" : "Hamburguesas el Corral GALERIAS",
+               "direccion" : "Calle 52 No 24 - 12",
+               "telefono" : "NR",
+               "localidad" : "Chapinero",
+               "servicio_a_domicilio" : "No",
+               "telefono_a_domicilio" : "NA",
+               "pagina_web" : "www.elcorral.com"
+           },{
+               "nro" : "28",
+               "rnt" : "14444",
+               "nombre_comercial" : "Crepes & Waffles",
+               "direccion" : "Carrera 12A No 83  -  40",
+               "telefono" : "676 76 00 Extensión 711 -",
+               "localidad" : "Chapinero",
+               "servicio_a_domicilio" : "No",
+               "telefono_a_domicilio" : "NA",
+               "pagina_web" : "www.Crepesywaffles.com"
+           },{
+               "nro" : "132",
+               "rnt" : "21658",
+               "nombre_comercial" : "Hamburguesas el Corral Edificio Continental",
+               "direccion" : "Avenida Jiménez No 4 - 16 Local 21 Mezzanine",
+               "telefono" : "NR",
+               "localidad" : "Candelaria",
+               "servicio_a_domicilio" : "No",
+               "telefono_a_domicilio" : "NA",
+               "pagina_web" : "www.elcorral.com"
+           },{
+               "nro" : "310",
+               "rnt" : "30728",
+               "nombre_comercial" : "La Popular de Andrés Contenedores",
+               "direccion" : "Calle 93 B No 13 - 43",
+               "telefono" : "863 78 80 - 861 22 33",
+               "localidad" : "Chapinero",
+               "servicio_a_domicilio" : "NR",
+               "telefono_a_domicilio" : "NA",
+               "pagina_web" : "www.andrescarnederes.com"
+           },{
+               "nro" : "303",
+               "rnt" : "30219",
+               "nombre_comercial" : "Don Jediondo Gurme´s",
+               "direccion" : "Centro Comercial Calima Calle 19 No 28 - 80 Local C-31",
+               "telefono" : "487 49 94 -",
+               "localidad" : "Los Mártires",
+               "servicio_a_domicilio" : "Sí",
+               "telefono_a_domicilio" : "487 51 36",
+               "pagina_web" : "www.donjediondo.com"
+           },{
+               "nro" : "136",
+               "rnt" : "21758",
+               "nombre_comercial" : "Crepes & Waffles",
+               "direccion" : "Avenida calle 39 No 7  -  40 Local 137",
+               "telefono" : "676 76 00 Extensión 732 -",
+               "localidad" : "Chapinero",
+               "servicio_a_domicilio" : "No",
+               "telefono_a_domicilio" : "NA",
+               "pagina_web" : "www.Crepesywaffles.com"
+           },{
+               "nro" : "13",
+               "rnt" : "14339",
+               "nombre_comercial" : "Hamburguesas el Corral Calle 100",
+               "direccion" : "Calle 100 No 8 - 75 Primer Piso",
+               "telefono" : "NR",
+               "localidad" : "Chapinero",
+               "servicio_a_domicilio" : "No",
+               "telefono_a_domicilio" : "NA",
+               "pagina_web" : "www.elcorral.com"
+           },{
+               "nro" : "23",
+               "rnt" : "14420",
+               "nombre_comercial" : "Crepes & Waffles",
+               "direccion" : "Carrera 11 No 85  - 79",
+               "telefono" : "676 76 00 Extensión 701 -",
+               "localidad" : "Chapinero",
+               "servicio_a_domicilio" : "No",
+               "telefono_a_domicilio" : "NA",
+               "pagina_web" : "www.Crepesywaffles.com"
+           },{
+               "nro" : "158",
+               "rnt" : "22613",
+               "nombre_comercial" : "Luna Restaurante",
+               "direccion" : "Calle 83 No 12 -26",
+               "telefono" : "257 20 88 -",
+               "localidad" : "Chapinero",
+               "servicio_a_domicilio" : "NR",
+               "telefono_a_domicilio" : "NA",
+               "pagina_web" : "NR"
+           },{
+               "nro" : "141",
+               "rnt" : "22109",
+               "nombre_comercial" : "Papa Jhons Pepe Sierra",
+               "direccion" : "Calle 116 No 18 B - 40",
+               "telefono" : "NR",
+               "localidad" : "Usaquén",
+               "servicio_a_domicilio" : "NR",
+               "telefono_a_domicilio" : "NA",
+               "pagina_web" : "www.papajohns.com.co"
+           },{
+               "nro" : "54",
+               "rnt" : "14645",
+               "nombre_comercial" : "Restaurante Dilucca",
+               "direccion" : "Carrera 13 No 85 - 32",
+               "telefono" : "236 73 01 - 257 42 69",
+               "localidad" : "Chapinero",
+               "servicio_a_domicilio" : "No",
+               "telefono_a_domicilio" : "NA",
+               "pagina_web" : "NR"
+           },{
+               "nro" : "194",
+               "rnt" : "25785",
+               "nombre_comercial" : "La Bottega De Andrei",
+               "direccion" : "Calle 119 B No 6 A - 18",
+               "telefono" : "214 01 87 -",
+               "localidad" : "Usaquén",
+               "servicio_a_domicilio" : "NR",
+               "telefono_a_domicilio" : "NA",
+               "pagina_web" : "NR"
+           },{
+               "nro" : "49",
+               "rnt" : "14632",
+               "nombre_comercial" : "Restaurante Wok",
+               "direccion" : "Avenida 19  No 118 - 75",
+               "telefono" : "213 88 54 -",
+               "localidad" : "Usaquén",
+               "servicio_a_domicilio" : "NR",
+               "telefono_a_domicilio" : "NA",
+               "pagina_web" : "www.wok.com.co"
+           },{
+               "nro" : "193",
+               "rnt" : "25770",
+               "nombre_comercial" : "Corral Gourmet Salitre",
+               "direccion" : "Centro Comercial Salitre Plaza Carrera 68 B No 24 - 39 Local 355",
+               "telefono" : "416 93 64 -",
+               "localidad" : "Fontibón",
+               "servicio_a_domicilio" : "NR",
+               "telefono_a_domicilio" : "NA",
+               "pagina_web" : "www.elcorralgourmet.com"
+           },{
+               "nro" : "124",
+               "rnt" : "21038",
+               "nombre_comercial" : "Brasa Roja World Trade Center",
+               "direccion" : "Avenida Calle 100 No 8A - 55 Local 140/41/42",
+               "telefono" : "NR",
+               "localidad" : "Chapinero",
+               "servicio_a_domicilio" : "Sí",
+               "telefono_a_domicilio" : "600 45 65",
+               "pagina_web" : "labrasaroja.com"
+           },{
+               "nro" : "26",
+               "rnt" : "14427",
+               "nombre_comercial" : "Restaurante Casa Vieja",
+               "direccion" : "Avenida Jiménez No 3 - 57",
+               "telefono" : "342 67 52 - 334 89 08",
+               "localidad" : "Candelaria",
+               "servicio_a_domicilio" : "No",
+               "telefono_a_domicilio" : "NA",
+               "pagina_web" : "www.casavieja.com.co"
+           },{
+               "nro" : "155",
+               "rnt" : "22609",
+               "nombre_comercial" : "Wata Kushi",
+               "direccion" : "Carrera 12 No 83 - 17",
+               "telefono" : "218 07 43 - 218 05 34",
+               "localidad" : "Chapinero",
+               "servicio_a_domicilio" : "NR",
+               "telefono_a_domicilio" : "NA",
+               "pagina_web" : "NR"
+           },{
+               "nro" : "160",
+               "rnt" : "22667",
+               "nombre_comercial" : "Diner Parque de la 93",
+               "direccion" : "Carrera 11 A No 93B - 11",
+               "telefono" : "616 01 93 -",
+               "localidad" : "Chapinero",
+               "servicio_a_domicilio" : "Sí",
+               "telefono_a_domicilio" : "616 01 93",
+               "pagina_web" : "NR"
+           },{
+               "nro" : "57",
+               "rnt" : "14649",
+               "nombre_comercial" : "La Fragata Internacional",
+               "direccion" : "Carrera  13 No 27 - 98 Piso 2",
+               "telefono" : "282 48 24 -",
+               "localidad" : "Santafé",
+               "servicio_a_domicilio" : "NR",
+               "telefono_a_domicilio" : "NA",
+               "pagina_web" : "www.lafragata.com"
+           },{
+               "nro" : "236",
+               "rnt" : "26541",
+               "nombre_comercial" : "Papa Jhons Centro Mayor",
+               "direccion" : "Centro Comercial Centro Mayor Calle 38 A Sur No 34 D - 51 Local 3024",
+               "telefono" : "NR",
+               "localidad" : "Antonio Nariño",
+               "servicio_a_domicilio" : "NR",
+               "telefono_a_domicilio" : "NA",
+               "pagina_web" : "www.papajohns.com.co"
+           },{
+               "nro" : "30",
+               "rnt" : "14477",
+               "nombre_comercial" : "Archies Usaquen",
+               "direccion" : "Carrera 6 A No 119 - 01",
+               "telefono" : "213 32 26 -",
+               "localidad" : "Usaquén",
+               "servicio_a_domicilio" : "Sí",
+               "telefono_a_domicilio" : "605 05 05",
+               "pagina_web" : "www.archies.co"
+           },{
+               "nro" : "169",
+               "rnt" : "24214",
+               "nombre_comercial" : "Restaurante Donde Chucho",
+               "direccion" : "Calle 84 Bis No 13 - 43",
+               "telefono" : "703 66 41 -",
+               "localidad" : "Chapinero",
+               "servicio_a_domicilio" : "NR",
+               "telefono_a_domicilio" : "NA",
+               "pagina_web" : "NR"
+           },{
+               "nro" : "163",
+               "rnt" : "23310",
+               "nombre_comercial" : "Hamburguesas del rodeo",
+               "direccion" : "Carrera 7 No 13 - 41 Interior 101",
+               "telefono" : "519 08 88 -",
+               "localidad" : "Candelaria",
+               "servicio_a_domicilio" : "Sí",
+               "telefono_a_domicilio" : "519 09 99",
+               "pagina_web" : "www.hamburguesasdelrodeo.com"
+           },{
+               "nro" : "242",
+               "rnt" : "27201",
+               "nombre_comercial" : "Restaurante Wok",
+               "direccion" : "Centro Comercial Gran Estación Avenida Calle 26 No 62 - 47 Local 1-48",
+               "telefono" : "572 27 75 -",
+               "localidad" : "Teusaquillo",
+               "servicio_a_domicilio" : "NR",
+               "telefono_a_domicilio" : "NA",
+               "pagina_web" : "www.wok.com.co"
+           },{
+               "nro" : "323",
+               "rnt" : "31034",
+               "nombre_comercial" : "Bagatelle S.A.S.",
+               "direccion" : "Carrera 11 A No 94 - 45",
+               "telefono" : "256 16 19 - 634 71 59",
+               "localidad" : "Chapinero",
+               "servicio_a_domicilio" : "Sí",
+               "telefono_a_domicilio" : "634 71 59",
+               "pagina_web" : "www.Bagatelle.com.co"
+           },{
+               "nro" : "88",
+               "rnt" : "15204",
+               "nombre_comercial" : "Restaurante Félix",
+               "direccion" : "Avenida Jiménez No 4 - 80",
+               "telefono" : "341 72 11 - 284 09 95",
+               "localidad" : "Candelaria",
+               "servicio_a_domicilio" : "Sí",
+               "telefono_a_domicilio" : "341 72 11",
+               "pagina_web" : "NR"
+           },{
+               "nro" : "39",
+               "rnt" : "14587",
+               "nombre_comercial" : "Restaurante Cali Mío No 11",
+               "direccion" : "Carrera 70 B No 25 - 47 Sur",
+               "telefono" : "260 52 82 -",
+               "localidad" : "Kennedy",
+               "servicio_a_domicilio" : "Sí",
+               "telefono_a_domicilio" : "600 43 00",
+               "pagina_web" : "www.calimio.com.co"
+           },{
+               "nro" : "58",
+               "rnt" : "14650",
+               "nombre_comercial" : "La Fragata Restaurante Giratorio",
+               "direccion" : "Calle 100 No 8 A - 55 Piso 12",
+               "telefono" : "218 44 56 -",
+               "localidad" : "Chapinero",
+               "servicio_a_domicilio" : "NR",
+               "telefono_a_domicilio" : "NA",
+               "pagina_web" : "www.lafragata.com"
+           },{
+               "nro" : "359",
+               "rnt" : "33531",
+               "nombre_comercial" : "Diana García Chef en Movimiento",
+               "direccion" : "Calle 116 No 7 -  15 Local 3 Edificio Cusezar",
+               "telefono" : "522 84 94 - 523 12 20",
+               "localidad" : "Usaquén",
+               "servicio_a_domicilio" : "Sí",
+               "telefono_a_domicilio" : "235 68 05",
+               "pagina_web" : "www.restaurantedianagarcia.com"
+           },{
+               "nro" : "68",
+               "rnt" : "14717",
+               "nombre_comercial" : "Café De Monserrate",
+               "direccion" : "Cerro de Monserrate Estación del Funicular",
+               "telefono" : "243 89 48 -",
+               "localidad" : "",
+               "servicio_a_domicilio" : "No",
+               "telefono_a_domicilio" : "NA",
+               "pagina_web" : "www.cafedemonserrate.com"
+           },{
+               "nro" : "305",
+               "rnt" : "30221",
+               "nombre_comercial" : "Don Jediondo Sopitas y Parrilla",
+               "direccion" : "Carrera 7 No 32 - 70 Local 419",
+               "telefono" : "350 09 30 -",
+               "localidad" : "Santafé",
+               "servicio_a_domicilio" : "Sí",
+               "telefono_a_domicilio" : "350 09 30",
+               "pagina_web" : "www.donjediondo.com"
+           },{
+               "nro" : "259",
+               "rnt" : "27319",
+               "nombre_comercial" : "Frisby No 50",
+               "direccion" : "Centro Comercial Salitre Plaza Carrera 68 B No 24 - 39 Local 384",
+               "telefono" : "01800939000 -",
+               "localidad" : "Fontibón",
+               "servicio_a_domicilio" : "Sí",
+               "telefono_a_domicilio" : "01 800 939 000",
+               "pagina_web" : "www.frisby.com.co"
+           },{
+               "nro" : "231",
+               "rnt" : "26444",
+               "nombre_comercial" : "Crepes & Waffles",
+               "direccion" : "Carrera 15 No 123  -  30 Local 1089",
+               "telefono" : "676 76 00 Extensión 705 -",
+               "localidad" : "Usaquén",
+               "servicio_a_domicilio" : "No",
+               "telefono_a_domicilio" : "NA",
+               "pagina_web" : "www.Crepesywaffles.com"
+           },{
+               "nro" : "326",
+               "rnt" : "31408",
+               "nombre_comercial" : "Andrés Exprés Caseta de Luxe",
+               "direccion" : "Centro Comercial Calima Avenida Calle 19 No 28 - 80 Local R 11",
+               "telefono" : "863 78 80 -",
+               "localidad" : "Los Mártires",
+               "servicio_a_domicilio" : "NR",
+               "telefono_a_domicilio" : "NA",
+               "pagina_web" : "www.andrescarnederes.com"
+           },{
+               "nro" : "198",
+               "rnt" : "26070",
+               "nombre_comercial" : "Archies Salitre",
+               "direccion" : "Calle 26 No 62 - 49 Local 318",
+               "telefono" : "571 81 38 - 572 23 43",
+               "localidad" : "Teusaquillo",
+               "servicio_a_domicilio" : "Sí",
+               "telefono_a_domicilio" : "605 05 05",
+               "pagina_web" : "www.archies.co"
+           },{
+               "nro" : "97",
+               "rnt" : "16463",
+               "nombre_comercial" : "Corral Gourmet La Candelaria",
+               "direccion" : "Calle 11 No 5 - 60",
+               "telefono" : "334 85 67 -",
+               "localidad" : "Candelaria",
+               "servicio_a_domicilio" : "NR",
+               "telefono_a_domicilio" : "NA",
+               "pagina_web" : "www.elcorralgourmet.com"
+           },{
+               "nro" : "281",
+               "rnt" : "29812",
+               "nombre_comercial" : "Don Jediondo Sopitas y Parrilla",
+               "direccion" : "Transversal 55 No 98 A - 66 Local 318",
+               "telefono" : "600 16 33 -",
+               "localidad" : "Barrios Unidos",
+               "servicio_a_domicilio" : "Sí",
+               "telefono_a_domicilio" : "600 16 33",
+               "pagina_web" : "www.donjediondo.com"
+           },{
+               "nro" : "274",
+               "rnt" : "28397",
+               "nombre_comercial" : "Papa Jhons Salitre",
+               "direccion" : "Calle 24 A No 69 C - 52",
+               "telefono" : "NR",
+               "localidad" : "Fontibón",
+               "servicio_a_domicilio" : "NR",
+               "telefono_a_domicilio" : "NA",
+               "pagina_web" : "www.papajohns.com.co"
+           },{
+               "nro" : "314",
+               "rnt" : "30767",
+               "nombre_comercial" : "PPC Pollo; Pizza; Carne",
+               "direccion" : "Centro Comercial Plaza de Las Américas Carrera 71 D No 6  - 94 Sur Local 2525",
+               "telefono" : "413 76 60 -",
+               "localidad" : "Kennedy",
+               "servicio_a_domicilio" : "No",
+               "telefono_a_domicilio" : "NA",
+               "pagina_web" : "www.ppc.com.co"
+           },{
+               "nro" : "17",
+               "rnt" : "14351",
+               "nombre_comercial" : "Corral Gourmet 116",
+               "direccion" : "Avenida Calle 116 No 15 - 65",
+               "telefono" : "215 31 55 -",
+               "localidad" : "Usaquén",
+               "servicio_a_domicilio" : "NR",
+               "telefono_a_domicilio" : "NA",
+               "pagina_web" : "www.elcorralgourmet.com"
+           },{
+               "nro" : "140",
+               "rnt" : "22096",
+               "nombre_comercial" : "Hamburguesas el Corral Torre Cuzesar",
+               "direccion" : "Avenida Calle 116 No 7 - 15 Interior 2",
+               "telefono" : "NR",
+               "localidad" : "Usaquén",
+               "servicio_a_domicilio" : "No",
+               "telefono_a_domicilio" : "NA",
+               "pagina_web" : "www.elcorral.com"
+           },{
+               "nro" : "78",
+               "rnt" : "14892",
+               "nombre_comercial" : "Taqueria Calle 93",
+               "direccion" : "Calle 93 A No 11 - 49 Local 2",
+               "telefono" : "616 76 71 - 616 75 68",
+               "localidad" : "Chapinero",
+               "servicio_a_domicilio" : "NR",
+               "telefono_a_domicilio" : "NA",
+               "pagina_web" : "NR"
+           },{
+               "nro" : "200",
+               "rnt" : "26319",
+               "nombre_comercial" : "Hamburguesas el Corral Gran Estación",
+               "direccion" : "Centro Comercial Gran Estación Avenida Calle 26 No 62 - 47 Local 314 - 315",
+               "telefono" : "NR",
+               "localidad" : "Teusaquillo",
+               "servicio_a_domicilio" : "No",
+               "telefono_a_domicilio" : "NA",
+               "pagina_web" : "www.elcorral.com"
+           },{
+               "nro" : "127",
+               "rnt" : "21515",
+               "nombre_comercial" : "Brasa Roja Centro Comercial San Martin",
+               "direccion" : "Centro Comercial San Martín Carrera 7 No 32 - 16 Local 404",
+               "telefono" : "NR",
+               "localidad" : "Santafé",
+               "servicio_a_domicilio" : "Sí",
+               "telefono_a_domicilio" : "600 45 65",
+               "pagina_web" : "labrasaroja.com"
+           },{
+               "nro" : "63",
+               "rnt" : "14667",
+               "nombre_comercial" : "Oliveto Pizza Gourmet",
+               "direccion" : "Carrera 5 No 70   26",
+               "telefono" : "212 65 70 - 212 08 07",
+               "localidad" : "Chapinero",
+               "servicio_a_domicilio" : "Sí",
+               "telefono_a_domicilio" : "212 65 70",
+               "pagina_web" : "www.olivetopizza.com / www.olivetopizzagourmet.com"
+           },{
+               "nro" : "299",
+               "rnt" : "30182",
+               "nombre_comercial" : "KFC",
+               "direccion" : "Transversal 23 No 97 - 73",
+               "telefono" : "316 240 86 78 -",
+               "localidad" : "Chapinero",
+               "servicio_a_domicilio" : "Sí",
+               "telefono_a_domicilio" : "600 09 09",
+               "pagina_web" : "www.kfccolombia.com"
+           },{
+               "nro" : "264",
+               "rnt" : "27623",
+               "nombre_comercial" : "MC Donalds Titán",
+               "direccion" : "Centro Comercial Titán Avenida Carrera 72 No 80 - 94",
+               "telefono" : "321 364 64 00",
+               "localidad" : "Engativá",
+               "servicio_a_domicilio" : "No",
+               "telefono_a_domicilio" : "NA",
+               "pagina_web" : "www.mcdonalds.com.co"
+           },{
+               "nro" : "270",
+               "rnt" : "28391",
+               "nombre_comercial" : "Hamburguesas el Corral Plaza de Las Américas II",
+               "direccion" : "Centro Comercial Plaza de Las Américas Carrera 71 D No 6 - 94 Sur Local 1120",
+               "telefono" : "NR",
+               "localidad" : "Kennedy",
+               "servicio_a_domicilio" : "No",
+               "telefono_a_domicilio" : "NA",
+               "pagina_web" : "www.elcorral.com"
+           },{
+               "nro" : "33",
+               "rnt" : "14482",
+               "nombre_comercial" : "Archies Calle 93",
+               "direccion" : "Calle 93 A No 11 - 49",
+               "telefono" : "530 45 20 -",
+               "localidad" : "Chapinero",
+               "servicio_a_domicilio" : "Sí",
+               "telefono_a_domicilio" : "605 05 05",
+               "pagina_web" : "www.archies.co"
+           },{
+               "nro" : "361",
+               "rnt" : "33554",
+               "nombre_comercial" : "PPC Pollo; Pizza; Carne",
+               "direccion" : "Avenida Jiménez No 7  - 45",
+               "telefono" : "341 3169 -",
+               "localidad" : "Candelaria",
+               "servicio_a_domicilio" : "NR",
+               "telefono_a_domicilio" : "NA",
+               "pagina_web" : "www.ppc.com.co"
+           },{
+               "nro" : "3",
+               "rnt" : "8252",
+               "nombre_comercial" : "Oma Barra de Café Aeropuerto Muelle Nacional",
+               "direccion" : "Aeropuerto Nuevo Dorado Muelle Nacional Sur Local 91",
+               "telefono" : "NR",
+               "localidad" : "Fontibón",
+               "servicio_a_domicilio" : "NR",
+               "telefono_a_domicilio" : "NA",
+               "pagina_web" : "http://173.254.122.220/"
+           },{
+               "nro" : "214",
+               "rnt" : "26333",
+               "nombre_comercial" : "Hamburguesas el Corral Américas",
+               "direccion" : "Avenida Américas No 39 A -22",
+               "telefono" : "NR",
+               "localidad" : "Puente Aranda",
+               "servicio_a_domicilio" : "No",
+               "telefono_a_domicilio" : "NA",
+               "pagina_web" : "www.elcorral.com"
+           },{
+               "nro" : "117",
+               "rnt" : "19071",
+               "nombre_comercial" : "Abasto Café & Despensa",
+               "direccion" : "Carrera 6 A No 119 B 52",
+               "telefono" : "215 12 86 - 215 12 86",
+               "localidad" : "Usaquén",
+               "servicio_a_domicilio" : "NR",
+               "telefono_a_domicilio" : "NA",
+               "pagina_web" : "NR"
+           },{
+               "nro" : "202",
+               "rnt" : "26321",
+               "nombre_comercial" : "Hamburguesas el Corral Unicentro II",
+               "direccion" : "Centro Comercial Uncientro Avenida 15 No 124 - 30  Local  409",
+               "telefono" : "NR",
+               "localidad" : "Usaquén",
+               "servicio_a_domicilio" : "No",
+               "telefono_a_domicilio" : "NA",
+               "pagina_web" : "www.elcorral.com"
+           },{
+               "nro" : "227",
+               "rnt" : "26440",
+               "nombre_comercial" : "Crepes & Waffles",
+               "direccion" : "Centro Comercial Calima Avenida Calle 19 No 28 - 80 Local C32",
+               "telefono" : "676 76 00 Extensión 755 -",
+               "localidad" : "Los Mártires",
+               "servicio_a_domicilio" : "No",
+               "telefono_a_domicilio" : "NA",
+               "pagina_web" : "www.Crepesywaffles.com"
+           },{
+               "nro" : "364",
+               "rnt" : "33774",
+               "nombre_comercial" : "Carbón 100 Santafé",
+               "direccion" : "Centro Comercial Santafé Calle 185 No 45 - 03 Local 397",
+               "telefono" : "673 07 98 -",
+               "localidad" : "Usaquén",
+               "servicio_a_domicilio" : "NR",
+               "telefono_a_domicilio" : "NA",
+               "pagina_web" : "carbon100xilvestre.com.co"
+           },{
+               "nro" : "262",
+               "rnt" : "27547",
+               "nombre_comercial" : "Paneroli-3",
+               "direccion" : "Centro Comercial Gran Estación Avenida Calle 26 No 62 - 47 Local 320A",
+               "telefono" : "572 32 42 -",
+               "localidad" : "Fontibón",
+               "servicio_a_domicilio" : "No",
+               "telefono_a_domicilio" : "NA",
+               "pagina_web" : "paneroli.com"
+           },{
+               "nro" : "347",
+               "rnt" : "32845",
+               "nombre_comercial" : "Kokoriko Calima",
+               "direccion" : "Centro Comercial Calima Calle 18 No 28 - 80",
+               "telefono" : "NR",
+               "localidad" : "Los Mártires",
+               "servicio_a_domicilio" : "Sí",
+               "telefono_a_domicilio" : "410 01 11",
+               "pagina_web" : "www.kokoriko.com.co"
+           },{
+               "nro" : "126",
+               "rnt" : "21311",
+               "nombre_comercial" : "TGI Fridays",
+               "direccion" : "Calle 93A No 11 - 27",
+               "telefono" : "601 90 90 Extensión 105 -",
+               "localidad" : "Chapinero",
+               "servicio_a_domicilio" : "SÍ",
+               "telefono_a_domicilio" : "606 44 34",
+               "pagina_web" : "www.fridayscolombia.com.co"
+           },{
+               "nro" : "98",
+               "rnt" : "16701",
+               "nombre_comercial" : "LA Brasa Roja Pepe Sierra",
+               "direccion" : "Avenida 19 No 116 - 40",
+               "telefono" : "629 02 57 -",
+               "localidad" : "Usaquén",
+               "servicio_a_domicilio" : "Sí",
+               "telefono_a_domicilio" : "600 45 65",
+               "pagina_web" : "labrasaroja.com"
+           },{
+               "nro" : "248",
+               "rnt" : "27243",
+               "nombre_comercial" : "Presto Avenida Chile",
+               "direccion" : "Centro Comercial Avenida Chile Calle 72 No 10 - 34 Plazoleta de Comidas",
+               "telefono" : "472 46 30 -",
+               "localidad" : "Chapinero",
+               "servicio_a_domicilio" : "Sí",
+               "telefono_a_domicilio" : "6550 550",
+               "pagina_web" : "www.presto.com.co"
+           },{
+               "nro" : "320",
+               "rnt" : "30771",
+               "nombre_comercial" : "PPC Pollo; Pizza; Carne",
+               "direccion" : "Diagonal 22B No 63 - 30 Local 341",
+               "telefono" : "650 91 54 -",
+               "localidad" : "Teusaquillo",
+               "servicio_a_domicilio" : "No",
+               "telefono_a_domicilio" : "NA",
+               "pagina_web" : "www.ppc.com.co"
+           },{
+               "nro" : "368",
+               "rnt" : "34000",
+               "nombre_comercial" : "Subway Centro Comercial Calima",
+               "direccion" : "Centro Comercial Calima Avenida Calle 19 No 28 - 80 Local R-23",
+               "telefono" : "378 62 65 -",
+               "localidad" : "Los Mártires",
+               "servicio_a_domicilio" : "Sí",
+               "telefono_a_domicilio" : "378 62 65",
+               "pagina_web" : "www.subwaycolombia.com"
+           },{
+               "nro" : "31",
+               "rnt" : "14480",
+               "nombre_comercial" : "Archies Pepe Sierra",
+               "direccion" : "Calle 116 No 17 - 13",
+               "telefono" : "637 00 38 - 310 235 19 95",
+               "localidad" : "Usaquén",
+               "servicio_a_domicilio" : "Sí",
+               "telefono_a_domicilio" : "605 05 05",
+               "pagina_web" : "www.archies.co"
+           },{
+               "nro" : "66",
+               "rnt" : "14686",
+               "nombre_comercial" : "Restaurante Casa San Isidro",
+               "direccion" : "Paseo Bolívar No 21 - 48 Este Estación Funicular",
+               "telefono" : "281 92 70 - 281 93 09",
+               "localidad" : "",
+               "servicio_a_domicilio" : "NR",
+               "telefono_a_domicilio" : "NA",
+               "pagina_web" : "www.restaurantecasasanisidro.com"
+           },{
+               "nro" : "334",
+               "rnt" : "31478",
+               "nombre_comercial" : "Beer Station Usaquen",
+               "direccion" : "Centro Comercial Titan Plaza Carrera 72 No 80 - 94  Local 403A",
+               "telefono" : "736 20 29 -",
+               "localidad" : "Engativá",
+               "servicio_a_domicilio" : "NR",
+               "telefono_a_domicilio" : "NA",
+               "pagina_web" : "www.beerstation.com.co"
+           },{
+               "nro" : "383",
+               "rnt" : "34393",
+               "nombre_comercial" : "La Plaza de Andrés",
+               "direccion" : "Centro Comercial Hacienda Santa Bárbara Carrera 7 No 115 - 60 LC 303 - 304 - 305 - 306 - 307 - 308",
+               "telefono" : "863 78 80 - 861 22 33",
+               "localidad" : "Usaquén",
+               "servicio_a_domicilio" : "NR",
+               "telefono_a_domicilio" : "NA",
+               "pagina_web" : "www.andrescarnederes.com"
+           },{
+               "nro" : "234",
+               "rnt" : "26523",
+               "nombre_comercial" : "Capital Cocina Y Café",
+               "direccion" : "Calle 10 No 2 - 99",
+               "telefono" : "342 04 26 -",
+               "localidad" : "Candelaria",
+               "servicio_a_domicilio" : "NR",
+               "telefono_a_domicilio" : "NA",
+               "pagina_web" : "NR"
+           },{
+               "nro" : "288",
+               "rnt" : "29959",
+               "nombre_comercial" : "Presto Puente Aéreo",
+               "direccion" : "Calle 26 No 106 - 28 Puente Aéreo",
+               "telefono" : "413 92 45 -",
+               "localidad" : "Fontibón",
+               "servicio_a_domicilio" : "Sí",
+               "telefono_a_domicilio" : "6550 550",
+               "pagina_web" : "www.presto.com.co"
+           },{
+               "nro" : "56",
+               "rnt" : "14647",
+               "nombre_comercial" : "Restaurante Museo del Oro",
+               "direccion" : "Calle 16 No 5 - 41",
+               "telefono" : "282 92 05 - 334 71 28",
+               "localidad" : "Santafé",
+               "servicio_a_domicilio" : "No",
+               "telefono_a_domicilio" : "NA",
+               "pagina_web" : "NR"
+           },{
+               "nro" : "157",
+               "rnt" : "22612",
+               "nombre_comercial" : "Piazza",
+               "direccion" : "Calle 83 12 - 26",
+               "telefono" : "257 20 88 -",
+               "localidad" : "Chapinero",
+               "servicio_a_domicilio" : "NR",
+               "telefono_a_domicilio" : "NA",
+               "pagina_web" : "NR"
+           },{
+               "nro" : "375",
+               "rnt" : "34175",
+               "nombre_comercial" : "Le Cabrera",
+               "direccion" : "Carrera 12 A No 83 - 23",
+               "telefono" : "610 28 46 -",
+               "localidad" : "Chapinero",
+               "servicio_a_domicilio" : "NR",
+               "telefono_a_domicilio" : "NA",
+               "pagina_web" : "NR"
+           },{
+               "nro" : "80",
+               "rnt" : "14914",
+               "nombre_comercial" : "Paneroli 1",
+               "direccion" : "Centro Comercial Andino Carrera 11 No  82 - 71 Local 414",
+               "telefono" : "236 23 58 -",
+               "localidad" : "Chapinero",
+               "servicio_a_domicilio" : "Sí",
+               "telefono_a_domicilio" : "236 23 58",
+               "pagina_web" : "paneroli.com"
+           },{
+               "nro" : "27",
+               "rnt" : "14441",
+               "nombre_comercial" : "Crepes & Waffles",
+               "direccion" : "Avenida Calle 13 No 4 - 55",
+               "telefono" : "676 76 00 Extensión 729 -",
+               "localidad" : "Candelaria",
+               "servicio_a_domicilio" : "No",
+               "telefono_a_domicilio" : "NA",
+               "pagina_web" : "www.Crepesywaffles.com"
+           },{
+               "nro" : "300",
+               "rnt" : "30216",
+               "nombre_comercial" : "Don Jediondo Sopitas y Parrilla",
+               "direccion" : "Centro Comercial Calima Calle 19 No 28 - 80 Local R-7",
+               "telefono" : "487 51 36 -",
+               "localidad" : "Los Mártires",
+               "servicio_a_domicilio" : "Sí",
+               "telefono_a_domicilio" : "487 51 36",
+               "pagina_web" : "www.donjediondo.com"
+           },{
+               "nro" : "48",
+               "rnt" : "14631",
+               "nombre_comercial" : "Restaurante Wok",
+               "direccion" : "Carrera 13  No 82 - 74",
+               "telefono" : "622 59 80 -",
+               "localidad" : "Chapinero",
+               "servicio_a_domicilio" : "NR",
+               "telefono_a_domicilio" : "NA",
+               "pagina_web" : "www.wok.com.co"
+           },{
+               "nro" : "93",
+               "rnt" : "15882",
+               "nombre_comercial" : "Hamburguesas el Corral San Martin",
+               "direccion" : "Centro Comercial San Martín Carrera 7 No 32 - 16 Local 409",
+               "telefono" : "NR",
+               "localidad" : "Santafé",
+               "servicio_a_domicilio" : "No",
+               "telefono_a_domicilio" : "NA",
+               "pagina_web" : "www.elcorral.com"
+           },{
+               "nro" : "318",
+               "rnt" : "30770",
+               "nombre_comercial" : "PPC Pollo; Pizza; Carne",
+               "direccion" : "Calle 26 No 51 A - 15 Local 322",
+               "telefono" : "335 06 00 - 321 364 39 46",
+               "localidad" : "Teusaquillo",
+               "servicio_a_domicilio" : "No",
+               "telefono_a_domicilio" : "NA",
+               "pagina_web" : "www.ppc.com.co"
+           },{
+               "nro" : "138",
+               "rnt" : "22075",
+               "nombre_comercial" : "El CoQ",
+               "direccion" : "Calle 84 No 14 - 02",
+               "telefono" : "610 80 36 -",
+               "localidad" : "Chapinero",
+               "servicio_a_domicilio" : "NR",
+               "telefono_a_domicilio" : "NA",
+               "pagina_web" : "NR"
+           },{
+               "nro" : "256",
+               "rnt" : "27308",
+               "nombre_comercial" : "Presto Colsubsidio Calle 26",
+               "direccion" : "Calle 26 No 25 - 50 Piso 2",
+               "telefono" : "338 43 44 -",
+               "localidad" : "Teusaquillo",
+               "servicio_a_domicilio" : "Sí",
+               "telefono_a_domicilio" : "6550 550",
+               "pagina_web" : "www.presto.com.co"
+           },{
+               "nro" : "153",
+               "rnt" : "22606",
+               "nombre_comercial" : "Koi By Wathacushi",
+               "direccion" : "Calle 119 No 6 A - 17",
+               "telefono" : "213 39 19 -",
+               "localidad" : "Usaquén",
+               "servicio_a_domicilio" : "NR",
+               "telefono_a_domicilio" : "NA",
+               "pagina_web" : "NR"
+           },{
+               "nro" : "107",
+               "rnt" : "17697",
+               "nombre_comercial" : "Hamburguesas el Corral Plaza 39",
+               "direccion" : "Avenida Calle 39 No 7 - 40 Local 233",
+               "telefono" : "NR",
+               "localidad" : "Chapinero",
+               "servicio_a_domicilio" : "No",
+               "telefono_a_domicilio" : "NA",
+               "pagina_web" : "www.elcorral.com"
+           },{
+               "nro" : "144",
+               "rnt" : "22306",
+               "nombre_comercial" : "Brasa Roja Centro Comercial Avenida Chile",
+               "direccion" : "Centro Comercial Avenida Chile Calle 72 No 10 -  34 Local 403 B",
+               "telefono" : "NR",
+               "localidad" : "Chapinero",
+               "servicio_a_domicilio" : "Sí",
+               "telefono_a_domicilio" : "600 45 65",
+               "pagina_web" : "labrasaroja.com"
+           },{
+               "nro" : "321",
+               "rnt" : "30772",
+               "nombre_comercial" : "Sopas de Mamá y Postres de la Abuela Sucursal Unicentro",
+               "direccion" : "Centro Comercial Unicentro Avenida 15 No 124 - 30 Local 1-060",
+               "telefono" : "658 48 98 -",
+               "localidad" : "Usaquén",
+               "servicio_a_domicilio" : "NR",
+               "telefono_a_domicilio" : "NA",
+               "pagina_web" : "www.sopasypostres.com.co"
+           },{
+               "nro" : "149",
+               "rnt" : "22457",
+               "nombre_comercial" : "Harrys Restaurante",
+               "direccion" : "Calle 70 No 5 - 57",
+               "telefono" : "321 39 40 - 345 03 04",
+               "localidad" : "Chapinero",
+               "servicio_a_domicilio" : "No",
+               "telefono_a_domicilio" : "NA",
+               "pagina_web" : "www.harrysasson.com"
+           },{
+               "nro" : "296",
+               "rnt" : "30010",
+               "nombre_comercial" : "El Carnal",
+               "direccion" : "Calle 82 No 13 - 15",
+               "telefono" : "NR",
+               "localidad" : "Chapinero",
+               "servicio_a_domicilio" : "No",
+               "telefono_a_domicilio" : "NA",
+               "pagina_web" : "elcarnal.com.co"
+           },{
+               "nro" : "176",
+               "rnt" : "25359",
+               "nombre_comercial" : "MC Donalds Gran Estación",
+               "direccion" : "Centro Comercial Gran Estación Avenida Calle 26 No 62 - 47 Local 3-36",
+               "telefono" : "572 65 89 - 311 561 08 67",
+               "localidad" : "Teusaquillo",
+               "servicio_a_domicilio" : "No",
+               "telefono_a_domicilio" : "NA",
+               "pagina_web" : "www.mcdonalds.com.co"
+           },{
+               "nro" : "389",
+               "rnt" : "34539",
+               "nombre_comercial" : "Presto Nuevo Dorado",
+               "direccion" : "Aeropuerto Eldorado; T2 Zona Internacional",
+               "telefono" : "NR",
+               "localidad" : "Fontibón",
+               "servicio_a_domicilio" : "Sí",
+               "telefono_a_domicilio" : "6550 550",
+               "pagina_web" : "www.presto.com.co"
+           },{
+               "nro" : "339",
+               "rnt" : "32254",
+               "nombre_comercial" : "Andrés Exprés Caseta de Luxe",
+               "direccion" : "Centro Comercial Platino Carrera 7 No 138 - 33 Local 309",
+               "telefono" : "863 78 80 -",
+               "localidad" : "Usaquén",
+               "servicio_a_domicilio" : "NR",
+               "telefono_a_domicilio" : "NA",
+               "pagina_web" : "www.andrescarnederes.com"
+           },{
+               "nro" : "342",
+               "rnt" : "32414",
+               "nombre_comercial" : "Cien Montaditos Pepe Sierra",
+               "direccion" : "Calle 116 No 17 A - 60",
+               "telefono" : "621 90 51 -",
+               "localidad" : "Usaquén",
+               "servicio_a_domicilio" : "NR",
+               "telefono_a_domicilio" : "NA",
+               "pagina_web" : "colombia.100montaditos.com"
+           },{
+               "nro" : "381",
+               "rnt" : "34269",
+               "nombre_comercial" : "Harrys Bakery",
+               "direccion" : "Carrera 6 No 69 A - 34",
+               "telefono" : "349 11 64 -",
+               "localidad" : "Chapinero",
+               "servicio_a_domicilio" : "Sí",
+               "telefono_a_domicilio" : "349 11 64",
+               "pagina_web" : "www.harrysasson.com"
+           },{
+               "nro" : "241",
+               "rnt" : "27200",
+               "nombre_comercial" : "Carbón 100 Avenida Chile",
+               "direccion" : "Calle 73 No 10 - 83 Local 409",
+               "telefono" : "248 92 81 - 674 05 28",
+               "localidad" : "Chapinero",
+               "servicio_a_domicilio" : "No",
+               "telefono_a_domicilio" : "NA",
+               "pagina_web" : "carbon100xilvestre.com.co"
+           },{
+               "nro" : "152",
+               "rnt" : "22605",
+               "nombre_comercial" : "7 16 Steak House",
+               "direccion" : "Calle 119 B No 6 - 28",
+               "telefono" : "213 42 71 -",
+               "localidad" : "Usaquén",
+               "servicio_a_domicilio" : "No",
+               "telefono_a_domicilio" : "NA",
+               "pagina_web" : "NR"
+           },{
+               "nro" : "315",
+               "rnt" : "30768",
+               "nombre_comercial" : "PPC Pollo; Pizza; Carne",
+               "direccion" : "Transversal 35 No 38 A - 20 Sur  Local 2-122",
+               "telefono" : "335 06 00 - 733 34 87",
+               "localidad" : "Antonio Nariño",
+               "servicio_a_domicilio" : "No",
+               "telefono_a_domicilio" : "NA",
+               "pagina_web" : "www.ppc.com.co"
+           },{
+               "nro" : "358",
+               "rnt" : "33494",
+               "nombre_comercial" : "Hamburguesas del rodeo Calle 70",
+               "direccion" : "Carrera 11 No 70 - 66",
+               "telefono" : "519 08 88 -",
+               "localidad" : "Chapinero",
+               "servicio_a_domicilio" : "Sí",
+               "telefono_a_domicilio" : "519 09 99",
+               "pagina_web" : "www.hamburguesasdelrodeo.com"
+           },{
+               "nro" : "319",
+               "rnt" : "30770",
+               "nombre_comercial" : "PPC Pollo; Pizza; Carne",
+               "direccion" : "Centro Comercial Gran Estación Calle 26 No 51  A - 15 Local 322",
+               "telefono" : "222 85 36 -",
+               "localidad" : "Teusaquillo",
+               "servicio_a_domicilio" : "NR",
+               "telefono_a_domicilio" : "NA",
+               "pagina_web" : "www.ppc.com.co"
+           },{
+               "nro" : "188",
+               "rnt" : "25691",
+               "nombre_comercial" : "Restaurante Lomos",
+               "direccion" : "Carrera 21 No 100 - 23",
+               "telefono" : "256 33 15 - 218 24 50",
+               "localidad" : "Usaquén",
+               "servicio_a_domicilio" : "No",
+               "telefono_a_domicilio" : "NA",
+               "pagina_web" : "NR"
+           },{
+               "nro" : "363",
+               "rnt" : "33773",
+               "nombre_comercial" : "Carbón 100 Gran Estación",
+               "direccion" : "Centro Comercial Gran Estación Avenida El Dorado No 62 - 49 Local 361",
+               "telefono" : "670 59 83 -",
+               "localidad" : "Teusaquillo",
+               "servicio_a_domicilio" : "NR",
+               "telefono_a_domicilio" : "NA",
+               "pagina_web" : "carbon100xilvestre.com.co"
+           },{
+               "nro" : "285",
+               "rnt" : "29905",
+               "nombre_comercial" : "La Bonga del Sinú",
+               "direccion" : "Calle 116 No 16 -  89",
+               "telefono" : "521 94 18 - 521 94 94",
+               "localidad" : "Usaquén",
+               "servicio_a_domicilio" : "NR",
+               "telefono_a_domicilio" : "NA",
+               "pagina_web" : "labongadelsinu.co"
+           },{
+               "nro" : "147",
+               "rnt" : "22434",
+               "nombre_comercial" : "Bogota Beer Company S A",
+               "direccion" : "Calle 116 No 16 - 78",
+               "telefono" : "742 92 92 Extensión 3 Opción 10 -",
+               "localidad" : "Usaquén",
+               "servicio_a_domicilio" : "NR",
+               "telefono_a_domicilio" : "NA",
+               "pagina_web" : "www.bogotabeercompany.com"
+           },{
+               "nro" : "174",
+               "rnt" : "24420",
+               "nombre_comercial" : "Papa Jhons Avenida Chile",
+               "direccion" : "Carrera 9 No 71 - 60/64",
+               "telefono" : "NR",
+               "localidad" : "Chapinero",
+               "servicio_a_domicilio" : "NR",
+               "telefono_a_domicilio" : "NA",
+               "pagina_web" : "www.papajohns.com.co"
+           },{
+               "nro" : "35",
+               "rnt" : "14485",
+               "nombre_comercial" : "Archies Zona Rosa",
+               "direccion" : "Calle 82 No 13 - 07",
+               "telefono" : "610 91 62 -",
+               "localidad" : "Chapinero",
+               "servicio_a_domicilio" : "Sí",
+               "telefono_a_domicilio" : "605 05 05",
+               "pagina_web" : "www.archies.co"
+           },{
+               "nro" : "11",
+               "rnt" : "14336",
+               "nombre_comercial" : "Corral Gourmet Atlantis",
+               "direccion" : "Calle 81 A No 13 A - 05 Local 01-02",
+               "telefono" : "623 29 93 -",
+               "localidad" : "Chapinero",
+               "servicio_a_domicilio" : "NR",
+               "telefono_a_domicilio" : "NA",
+               "pagina_web" : "www.elcorralgourmet.com"
+           },{
+               "nro" : "297",
+               "rnt" : "30011",
+               "nombre_comercial" : "Corral Gourmet Usaquén",
+               "direccion" : "Calle 119 B No 5 - 86",
+               "telefono" : "215 95 51 -",
+               "localidad" : "Usaquén",
+               "servicio_a_domicilio" : "NR",
+               "telefono_a_domicilio" : "NA",
+               "pagina_web" : "www.elcorralgourmet.com"
+           },{
+               "nro" : "254",
+               "rnt" : "27252",
+               "nombre_comercial" : "KFC",
+               "direccion" : "Centro Comercial Atlantis Plaza Calle 81 No 13 - 05 Local 407",
+               "telefono" : "NR",
+               "localidad" : "Chapinero",
+               "servicio_a_domicilio" : "Sí",
+               "telefono_a_domicilio" : "600 09 09",
+               "pagina_web" : "www.kfcbuenisimo.com/colombia"
+           },{
+               "nro" : "135",
+               "rnt" : "21680",
+               "nombre_comercial" : "teriyki 69",
+               "direccion" : "Calle 69 A No 5 - 79",
+               "telefono" : "321 02 15 -",
+               "localidad" : "Chapinero",
+               "servicio_a_domicilio" : "Sí",
+               "telefono_a_domicilio" : "321 02 15",
+               "pagina_web" : "www.teriyaki.com.co"
+           },{
+               "nro" : "166",
+               "rnt" : "23878",
+               "nombre_comercial" : "La Biferia",
+               "direccion" : "Calle 29 Bis No 6 - 12",
+               "telefono" : "245 83 88 - 314 414 24 03",
+               "localidad" : "Santafé",
+               "servicio_a_domicilio" : "NR",
+               "telefono_a_domicilio" : "NA",
+               "pagina_web" : "labiferia.squarespace.com"
+           },{
+               "nro" : "29",
+               "rnt" : "14445",
+               "nombre_comercial" : "Crepes & Waffles",
+               "direccion" : "Calle 93B No 12  -  28 Local 101",
+               "telefono" : "676 76 00 Extensión 708 -",
+               "localidad" : "Chapinero",
+               "servicio_a_domicilio" : "No",
+               "telefono_a_domicilio" : "NA",
+               "pagina_web" : "www.Crepesywaffles.com"
+           },{
+               "nro" : "70",
+               "rnt" : "14806",
+               "nombre_comercial" : "MC Donalds Parque 93",
+               "direccion" : "Carrera 12 No 93  - 86",
+               "telefono" : "618 24 28 - 311 561 08 60",
+               "localidad" : "Chapinero",
+               "servicio_a_domicilio" : "Sí",
+               "telefono_a_domicilio" : "400 33 33",
+               "pagina_web" : "www.mcdonalds.com.co"
+           },{
+               "nro" : "73",
+               "rnt" : "14810",
+               "nombre_comercial" : "MC Donalds Pepe Sierra",
+               "direccion" : "Calle 116 No 18B  - 43",
+               "telefono" : "213 78 72 - 311 561 08 61",
+               "localidad" : "Usaquén",
+               "servicio_a_domicilio" : "Sí",
+               "telefono_a_domicilio" : "400 33 33",
+               "pagina_web" : "www.mcdonalds.com.co"
+           },{
+               "nro" : "34",
+               "rnt" : "14483",
+               "nombre_comercial" : "Archies Andino",
+               "direccion" : "Centro Comercial Andino Plaza Carrera 11 No 82 - 71 Piso 4 Local 406",
+               "telefono" : "236 27 35 -",
+               "localidad" : "Chapinero",
+               "servicio_a_domicilio" : "Sí",
+               "telefono_a_domicilio" : "605 05 05",
+               "pagina_web" : "www.archies.co"
+           },{
+               "nro" : "69",
+               "rnt" : "14777",
+               "nombre_comercial" : "Hard Rock Café",
+               "direccion" : "Centro Comercial Atlantis Calle 81 No 13 - 05  Local 011",
+               "telefono" : "530 73 28 - 530 73 29",
+               "localidad" : "Chapinero",
+               "servicio_a_domicilio" : "Sí",
+               "telefono_a_domicilio" : "530 22 00",
+               "pagina_web" : "www.hardrock.com"
+           },{
+               "nro" : "195",
+               "rnt" : "25786",
+               "nombre_comercial" : "Restaurante Mediterránea De Andrei",
+               "direccion" : "Carrera 6 A No 119 B - 05",
+               "telefono" : "612 90 59 - 629 82 79",
+               "localidad" : "Usaquén",
+               "servicio_a_domicilio" : "NR",
+               "telefono_a_domicilio" : "NA",
+               "pagina_web" : "www.mediterraneadeandreiusaquen.com"
+           },{
+               "nro" : "134",
+               "rnt" : "21679",
+               "nombre_comercial" : "teriyki Thai",
+               "direccion" : "Carrera 13 No 83 - 66",
+               "telefono" : "618 15 19 -",
+               "localidad" : "Chapinero",
+               "servicio_a_domicilio" : "Sí",
+               "telefono_a_domicilio" : "618 15 19",
+               "pagina_web" : "www.teriyaki.com.co"
+           },{
+               "nro" : "328",
+               "rnt" : "31411",
+               "nombre_comercial" : "Andrés Exprés Caseta de Luxe",
+               "direccion" : "Centro Comercial Centro Mayor Calle 38 A Sur No 34 D - 50 Local 2107",
+               "telefono" : "863 78 80 -",
+               "localidad" : "Antonio Nariño",
+               "servicio_a_domicilio" : "NR",
+               "telefono_a_domicilio" : "NA",
+               "pagina_web" : "www.andrescarnederes.com"
+           },{
+               "nro" : "64",
+               "rnt" : "14668",
+               "nombre_comercial" : "Oliveto Pizza Gourmet",
+               "direccion" : "Carrera 6A No 118  -  57",
+               "telefono" : "213 41 24 - 213 03 02",
+               "localidad" : "Usaquén",
+               "servicio_a_domicilio" : "Sí",
+               "telefono_a_domicilio" : "212 65 70",
+               "pagina_web" : "www.olivetopizza.com / www.olivetopizzagourmet.com"
+           },{
+               "nro" : "282",
+               "rnt" : "29839",
+               "nombre_comercial" : "Don Jediondo Sopitas y Parrilla",
+               "direccion" : "Centro Comercial Plaza de Las Américas Carrera 71 D No 6 - 94 Sur Local 2913",
+               "telefono" : "413 76 20 -",
+               "localidad" : "Kennedy",
+               "servicio_a_domicilio" : "No",
+               "telefono_a_domicilio" : "NA",
+               "pagina_web" : "www.donjediondo.com"
+           },{
+               "nro" : "372",
+               "rnt" : "34164",
+               "nombre_comercial" : "Apache Burger Bar",
+               "direccion" : "Avenida Carrera 11 No 93 - 77",
+               "telefono" : "635 19 16 -",
+               "localidad" : "Chapinero",
+               "servicio_a_domicilio" : "NR",
+               "telefono_a_domicilio" : "NA",
+               "pagina_web" : "NR"
+           },{
+               "nro" : "229",
+               "rnt" : "26442",
+               "nombre_comercial" : "Crepes & Waffles",
+               "direccion" : "Centro Comercial Centro Mayor Calle 38 A Sur No 34 D - 51 Plaza del Equilibrista Piso 2",
+               "telefono" : "676 76 00 Extensión 751 -",
+               "localidad" : "Antonio Nariño",
+               "servicio_a_domicilio" : "No",
+               "telefono_a_domicilio" : "NA",
+               "pagina_web" : "www.Crepesywaffles.com"
+           },{
+               "nro" : "337",
+               "rnt" : "32193",
+               "nombre_comercial" : "Oma Barra de Café Bogotá Aeropuerto El Nuevo Dorado",
+               "direccion" : "Avenida Calle 26 Carrera 120 Primer Piso Diagonal Porteria 6",
+               "telefono" : "NR",
+               "localidad" : "Fontibón",
+               "servicio_a_domicilio" : "NR",
+               "telefono_a_domicilio" : "NA",
+               "pagina_web" : "http://173.254.122.220/"
+           },{
+               "nro" : "59",
+               "rnt" : "14651",
+               "nombre_comercial" : "Fish Market La Fragata Zona T",
+               "direccion" : "Carrera 13 No 83 - 18",
+               "telefono" : "691 24 19 - 257 97 43",
+               "localidad" : "Chapinero",
+               "servicio_a_domicilio" : "NR",
+               "telefono_a_domicilio" : "NA",
+               "pagina_web" : "www.lafragata.com"
+           },{
+               "nro" : "380",
+               "rnt" : "34253",
+               "nombre_comercial" : "Bogota Beer Company S A",
+               "direccion" : "Carrera 4 A No 27 - 04",
+               "telefono" : "742 92 92 Extensión 3 Opción 11 -",
+               "localidad" : "Santafé",
+               "servicio_a_domicilio" : "NR",
+               "telefono_a_domicilio" : "NA",
+               "pagina_web" : "www.bogotabeercompany.com"
+           },{
+               "nro" : "177",
+               "rnt" : "25360",
+               "nombre_comercial" : "MC Donalds Centro Internacional",
+               "direccion" : "Carrera 10 No 26 - 55/57 Edificio Bachue",
+               "telefono" : "341 28 27 - 321 427 08 08",
+               "localidad" : "Santafé",
+               "servicio_a_domicilio" : "Sí",
+               "telefono_a_domicilio" : "400 33 33",
+               "pagina_web" : "www.mcdonalds.com.co"
+           },{
+               "nro" : "225",
+               "rnt" : "26438",
+               "nombre_comercial" : "Crepes & Waffles",
+               "direccion" : "Avenida Carrera 58 No 127 - 59 Local 25 - 335",
+               "telefono" : "676 76 00 Extensión 704 -",
+               "localidad" : "Suba",
+               "servicio_a_domicilio" : "No",
+               "telefono_a_domicilio" : "NA",
+               "pagina_web" : "www.Crepesywaffles.com"
+           },{
+               "nro" : "249",
+               "rnt" : "27244",
+               "nombre_comercial" : "Presto Calle. 85",
+               "direccion" : "Calle 85 No 12 - 61",
+               "telefono" : "616 98 45 -",
+               "localidad" : "Chapinero",
+               "servicio_a_domicilio" : "Sí",
+               "telefono_a_domicilio" : "6550 550",
+               "pagina_web" : "www.presto.com.co"
+           },{
+               "nro" : "289",
+               "rnt" : "30002",
+               "nombre_comercial" : "El Carnal",
+               "direccion" : "Centro Comercial Hacienda Santa Barbará Carrera 7 No 115 - 72 Local E-205",
+               "telefono" : "NR",
+               "localidad" : "Usaquén",
+               "servicio_a_domicilio" : "No",
+               "telefono_a_domicilio" : "NA",
+               "pagina_web" : "elcarnal.com.co"
+           },{
+               "nro" : "357",
+               "rnt" : "33390",
+               "nombre_comercial" : "Il Magazzino Italiano",
+               "direccion" : "Calle 93 A No 13 A - 31 Local 01",
+               "telefono" : "610 29 00 -",
+               "localidad" : "Chapinero",
+               "servicio_a_domicilio" : "NR",
+               "telefono_a_domicilio" : "NA",
+               "pagina_web" : "NR"
+           },{
+               "nro" : "164",
+               "rnt" : "23409",
+               "nombre_comercial" : "Pesquera Jaramillo SUC. CHICO",
+               "direccion" : "Calle 93 A No 11 A - 31",
+               "telefono" : "257 25 28 - 256 54 94",
+               "localidad" : "Chapinero",
+               "servicio_a_domicilio" : "NR",
+               "telefono_a_domicilio" : "NA",
+               "pagina_web" : "www.pesquerajaramillo.com"
+           },{
+               "nro" : "306",
+               "rnt" : "30222",
+               "nombre_comercial" : "La Popular de Andrés Contenedores",
+               "direccion" : "Centro Comercial Hacienda Santa Bárbara Carrera 7 No 115 - 60",
+               "telefono" : "863 78 80 - 861 22 33",
+               "localidad" : "Usaquén",
+               "servicio_a_domicilio" : "NR",
+               "telefono_a_domicilio" : "NA",
+               "pagina_web" : "www.andrescarnederes.com"
+           },{
+               "nro" : "221",
+               "rnt" : "26368",
+               "nombre_comercial" : "MC Donalds Calima",
+               "direccion" : "Centro Comercial Calima Avenida Calle 19 No 28 - 10 Local C27",
+               "telefono" : "378 61 26 - 311 554 90 00",
+               "localidad" : "Los Mártires",
+               "servicio_a_domicilio" : "Sí",
+               "telefono_a_domicilio" : "400 33 33",
+               "pagina_web" : "www.mcdonalds.com.co"
+           },{
+               "nro" : "207",
+               "rnt" : "26326",
+               "nombre_comercial" : "Hamburguesas el Corral Calima",
+               "direccion" : "Centro Comercila Calima Avenida Calle 19 No 28 - 80 Local C-30",
+               "telefono" : "NR",
+               "localidad" : "Los Mártires",
+               "servicio_a_domicilio" : "No",
+               "telefono_a_domicilio" : "NA",
+               "pagina_web" : "www.elcorral.com"
+           },{
+               "nro" : "22",
+               "rnt" : "14419",
+               "nombre_comercial" : "Restaurante Casa Vieja San Diego",
+               "direccion" : "Carrera 10 No 26 - 60",
+               "telefono" : "284 73 59 - 281 01 90",
+               "localidad" : "Santafé",
+               "servicio_a_domicilio" : "No",
+               "telefono_a_domicilio" : "NA",
+               "pagina_web" : "www.casavieja.com.co"
+           },{
+               "nro" : "257",
+               "rnt" : "27317",
+               "nombre_comercial" : "Frisby G48",
+               "direccion" : "Centro Comercial Avenida Chile Calle 72 No 10 - 34 Local 405",
+               "telefono" : "249 27 19 -",
+               "localidad" : "Chapinero",
+               "servicio_a_domicilio" : "Sí",
+               "telefono_a_domicilio" : "01 800 939 000",
+               "pagina_web" : "www.frisby.com.co"
+           },{
+               "nro" : "143",
+               "rnt" : "22207",
+               "nombre_comercial" : "Restaurante Casa",
+               "direccion" : "Carrera 13 No 85 - 24",
+               "telefono" : "236 37 55 - 704 46 06",
+               "localidad" : "Chapinero",
+               "servicio_a_domicilio" : "No",
+               "telefono_a_domicilio" : "NA",
+               "pagina_web" : "NR"
+           },{
+               "nro" : "206",
+               "rnt" : "26325",
+               "nombre_comercial" : "Hamburguesas el Corral Unicentro I",
+               "direccion" : "Centro Comercial Unicentro Avenida 15 No 124 - 30  Local 2078",
+               "telefono" : "NR",
+               "localidad" : "Usaquén",
+               "servicio_a_domicilio" : "No",
+               "telefono_a_domicilio" : "NA",
+               "pagina_web" : "www.elcorral.com"
+           },{
+               "nro" : "53",
+               "rnt" : "14644",
+               "nombre_comercial" : "Restaurante Patria",
+               "direccion" : "Calle 83 No 12A - 11",
+               "telefono" : "236 98 54 - 621 06 82",
+               "localidad" : "Chapinero",
+               "servicio_a_domicilio" : "No",
+               "telefono_a_domicilio" : "NA",
+               "pagina_web" : "NR"
+           },{
+               "nro" : "290",
+               "rnt" : "30003",
+               "nombre_comercial" : "El Carnal",
+               "direccion" : "Centro Comercial Santafé Calle 185 No 45 - 03 Local 3N-125",
+               "telefono" : "NR",
+               "localidad" : "Usaquén",
+               "servicio_a_domicilio" : "No",
+               "telefono_a_domicilio" : "NA",
+               "pagina_web" : "elcarnal.com.co"
+           },{
+               "nro" : "24",
+               "rnt" : "14421",
+               "nombre_comercial" : "Crepes & Waffles",
+               "direccion" : "Carrera 13 No  28  -  08 Local 36",
+               "telefono" : "676 76 00 Extensión 702 -",
+               "localidad" : "Santafé",
+               "servicio_a_domicilio" : "No",
+               "telefono_a_domicilio" : "NA",
+               "pagina_web" : "www.Crepesywaffles.com"
+           },{
+               "nro" : "222",
+               "rnt" : "26369",
+               "nombre_comercial" : "MC Donalds Centro Mayor",
+               "direccion" : "Centro Comercial Centro Mayor Calle 38 A Sur No 34 D - 51 Local 2115 B-C",
+               "telefono" : "734 03 46 - 321 241 40 16",
+               "localidad" : "Antonio Nariño",
+               "servicio_a_domicilio" : "No",
+               "telefono_a_domicilio" : "NA",
+               "pagina_web" : "www.mcdonalds.com.co"
+           },{
+               "nro" : "208",
+               "rnt" : "26327",
+               "nombre_comercial" : "Hamburguesas el Corral Carulla Galerías",
+               "direccion" : "Calle 53 No 26 - 60",
+               "telefono" : "NR",
+               "localidad" : "Chapinero",
+               "servicio_a_domicilio" : "No",
+               "telefono_a_domicilio" : "NA",
+               "pagina_web" : "www.elcorral.com"
+           },{
+               "nro" : "146",
+               "rnt" : "22432",
+               "nombre_comercial" : "Bogota Beer Company",
+               "direccion" : "Carrera 5 No 71 - 75",
+               "telefono" : "742 92 92 Extensión 3 Opción 7 -",
+               "localidad" : "Chapinero",
+               "servicio_a_domicilio" : "NR",
+               "telefono_a_domicilio" : "NA",
+               "pagina_web" : "www.bogotabeercompany.com"
+           },{
+               "nro" : "60",
+               "rnt" : "14660",
+               "nombre_comercial" : "Apolos Men",
+               "direccion" : "Calle 85 No 11 - 18",
+               "telefono" : "257 54 43 - 311 261 55 07",
+               "localidad" : "Chapinero",
+               "servicio_a_domicilio" : "NR",
+               "telefono_a_domicilio" : "NA",
+               "pagina_web" : "www.apolosmen.com.co"
+           },{
+               "nro" : "161",
+               "rnt" : "22668",
+               "nombre_comercial" : "La Hamburguesería De La Macarena",
+               "direccion" : "Carrera 4 A No 27 - 27",
+               "telefono" : "281 12 86 - 284 88 86",
+               "localidad" : "Santafé",
+               "servicio_a_domicilio" : "Sí",
+               "telefono_a_domicilio" : "600 09 69",
+               "pagina_web" : "www.lahamburgueseria.com"
+           },{
+               "nro" : "15",
+               "rnt" : "14346",
+               "nombre_comercial" : "Corral Gourmet 93",
+               "direccion" : "Calle 93 A No 12 - 57 Local 3 y 4",
+               "telefono" : "640 62 59 -",
+               "localidad" : "Chapinero",
+               "servicio_a_domicilio" : "NR",
+               "telefono_a_domicilio" : "NA",
+               "pagina_web" : "www.elcorralgourmet.com"
+           },{
+               "nro" : "278",
+               "rnt" : "29795",
+               "nombre_comercial" : "Cali Mío Centro Comercial Santafé",
+               "direccion" : "Centro Comercial Santafé Calle 185 No 45 03 Local 3 - 11",
+               "telefono" : "NR",
+               "localidad" : "Usaquén",
+               "servicio_a_domicilio" : "Sí",
+               "telefono_a_domicilio" : "600 43 00",
+               "pagina_web" : "www.calimio.com.co"
+           },{
+               "nro" : "215",
+               "rnt" : "26356",
+               "nombre_comercial" : "La Brasa Roja Gran Estación",
+               "direccion" : "Centro Comercial Gran Estación Avenida Calle 26 No 62 - 47 Local 302",
+               "telefono" : "NR",
+               "localidad" : "Teusaquillo",
+               "servicio_a_domicilio" : "Sí",
+               "telefono_a_domicilio" : "600 45 65",
+               "pagina_web" : "labrasaroja.com"
+           },{
+               "nro" : "233",
+               "rnt" : "26478",
+               "nombre_comercial" : "Tabula",
+               "direccion" : "Calle 29 BIS No 5 - 90",
+               "telefono" : "287 72 28 - 285 88 75",
+               "localidad" : "Santafé",
+               "servicio_a_domicilio" : "NR",
+               "telefono_a_domicilio" : "NA",
+               "pagina_web" : "NR"
+           },{
+               "nro" : "102",
+               "rnt" : "16931",
+               "nombre_comercial" : "Sopas de Mamá y Postres de la Abuela Sucursal Quinta Camacho",
+               "direccion" : "Calle 71 No 10 - 73",
+               "telefono" : "658 48 95 -",
+               "localidad" : "Chapinero",
+               "servicio_a_domicilio" : "NR",
+               "telefono_a_domicilio" : "NA",
+               "pagina_web" : "www.sopasypostres.com.co"
+           },{
+               "nro" : "1",
+               "rnt" : "8127",
+               "nombre_comercial" : "Hamburguesas el Corral Aeropuerto",
+               "direccion" : "Aeropuerto Eldorado; Tercel Nivel  Local 101",
+               "telefono" : "NR",
+               "localidad" : "Fontibón",
+               "servicio_a_domicilio" : "No",
+               "telefono_a_domicilio" : "NA",
+               "pagina_web" : "www.elcorral.com"
+           },{
+               "nro" : "373",
+               "rnt" : "34166",
+               "nombre_comercial" : "Chibchombia",
+               "direccion" : "Carrera 4 A No 26D - 90",
+               "telefono" : "284 87 39 -",
+               "localidad" : "Santafé",
+               "servicio_a_domicilio" : "NR",
+               "telefono_a_domicilio" : "NA",
+               "pagina_web" : "NR"
+           },{
+               "nro" : "65",
+               "rnt" : "14669",
+               "nombre_comercial" : "El Olivar Restaurante",
+               "direccion" : "Carrera 6 No 10 - 40",
+               "telefono" : "283 29 64 -",
+               "localidad" : "Candelaria",
+               "servicio_a_domicilio" : "NR",
+               "telefono_a_domicilio" : "NA",
+               "pagina_web" : "NR"
+           },{
+               "nro" : "181",
+               "rnt" : "25652",
+               "nombre_comercial" : "Restaurante BAR Museo del Tequila",
+               "direccion" : "Carrera 13 A No 86 A - 18",
+               "telefono" : "256 66 14 -",
+               "localidad" : "Chapinero",
+               "servicio_a_domicilio" : "NR",
+               "telefono_a_domicilio" : "NA",
+               "pagina_web" : "www.museodeltequila.com.co"
+           },{
+               "nro" : "67",
+               "rnt" : "14687",
+               "nombre_comercial" : "Restaurante Casa Santa Clara",
+               "direccion" : "Paseo Bolívar No 21 - 48 Este Estación Funicular",
+               "telefono" : "243 89 52 - 286 43 39",
+               "localidad" : "",
+               "servicio_a_domicilio" : "NR",
+               "telefono_a_domicilio" : "NA",
+               "pagina_web" : "www.restaurantecasasantaclara.com"
+           },{
+               "nro" : "336",
+               "rnt" : "31729",
+               "nombre_comercial" : "Crepes & Waffles",
+               "direccion" : "Calle 70 No 4 - 96",
+               "telefono" : "676 76 00 Extensión 735  -",
+               "localidad" : "Chapinero",
+               "servicio_a_domicilio" : "NR",
+               "telefono_a_domicilio" : "NA",
+               "pagina_web" : "www.Crepesywaffles.com"
+           },{
+               "nro" : "203",
+               "rnt" : "26322",
+               "nombre_comercial" : "Hamburguesas el Corral Centro Mayor II",
+               "direccion" : "Centro Comercial Centro Mayor  Calle 38 A Sur No 34 D - 51 Local 3024 A",
+               "telefono" : "NR",
+               "localidad" : "Antonio Nariño",
+               "servicio_a_domicilio" : "No",
+               "telefono_a_domicilio" : "NA",
+               "pagina_web" : "www.elcorral.com"
+           },{
+               "nro" : "354",
+               "rnt" : "32853",
+               "nombre_comercial" : "Kokoriko Andino",
+               "direccion" : "Centro Comercial Andino Carrera 11 No 82 - 71  Local 415 Piso 4",
+               "telefono" : "NR",
+               "localidad" : "Chapinero",
+               "servicio_a_domicilio" : "Sí",
+               "telefono_a_domicilio" : "410 01 11",
+               "pagina_web" : "www.kokoriko.com.co"
+           },{
+               "nro" : "45",
+               "rnt" : "14604",
+               "nombre_comercial" : "Bogota Beer Company",
+               "direccion" : "Calle 85 No 13  - 06",
+               "telefono" : "742 92 92 Extensión 3 Opción 6 -",
+               "localidad" : "Chapinero",
+               "servicio_a_domicilio" : "NR",
+               "telefono_a_domicilio" : "NA",
+               "pagina_web" : "www.bogotabeercompany.com"
+           },{
+               "nro" : "46",
+               "rnt" : "14618",
+               "nombre_comercial" : "El Ovejo Café",
+               "direccion" : "Carrera 14 No 83 - 70 Piso 2",
+               "telefono" : "611 24 96 -",
+               "localidad" : "Chapinero",
+               "servicio_a_domicilio" : "NR",
+               "telefono_a_domicilio" : "NA",
+               "pagina_web" : "NR"
+           },{
+               "nro" : "228",
+               "rnt" : "26441",
+               "nombre_comercial" : "Crepes & Waffles",
+               "direccion" : "Centro comercial Gran Estación Avenida Calle 26 No  62 - 47 Local 321",
+               "telefono" : "676 76 00 Extensión 726 -",
+               "localidad" : "Teusaquillo",
+               "servicio_a_domicilio" : "No",
+               "telefono_a_domicilio" : "NA",
+               "pagina_web" : "www.Crepesywaffles.com"
+           },{
+               "nro" : "386",
+               "rnt" : "34467",
+               "nombre_comercial" : "Andrés Expres Caseta De Luxe",
+               "direccion" : "Centro Comercial Cafam Floresta Avenida Carrera 68 No 90 - 88 Local 2 011",
+               "telefono" : "863 78 80 -",
+               "localidad" : "Barrios Unidos",
+               "servicio_a_domicilio" : "NR",
+               "telefono_a_domicilio" : "NA",
+               "pagina_web" : "www.andrescarnederes.com"
+           },{
+               "nro" : "219",
+               "rnt" : "26366",
+               "nombre_comercial" : "MC Donalds Unicentro",
+               "direccion" : "Centro Comercial Unicentro Avenida 15 No 123 - 30 Local 1-65",
+               "telefono" : "629 15 55 - 311 561 08 64",
+               "localidad" : "Usaquén",
+               "servicio_a_domicilio" : "No",
+               "telefono_a_domicilio" : "NA",
+               "pagina_web" : "www.mcdonalds.com.co"
+           },{
+               "nro" : "330",
+               "rnt" : "31414",
+               "nombre_comercial" : "Andrés Exprés Caseta de Luxe",
+               "direccion" : "Centro Comercial Unicentro Avenida 15 No 124 - 30 Local 401",
+               "telefono" : "863 78 80 -",
+               "localidad" : "Usaquén",
+               "servicio_a_domicilio" : "NR",
+               "telefono_a_domicilio" : "NA",
+               "pagina_web" : "www.andrescarnederes.com"
+           },{
+               "nro" : "192",
+               "rnt" : "25768",
+               "nombre_comercial" : "Hamburguesas el Corral Salitre",
+               "direccion" : "Centro Comercial Salitre Plaza Carrera 68 B No 24 - 39 Local 371",
+               "telefono" : "NR",
+               "localidad" : "Fontibón",
+               "servicio_a_domicilio" : "No",
+               "telefono_a_domicilio" : "NA",
+               "pagina_web" : "www.elcorral.com"
+           },{
+               "nro" : "243",
+               "rnt" : "27237",
+               "nombre_comercial" : "Presto Word Trade Center",
+               "direccion" : "Carrera 11 No 98 - 46",
+               "telefono" : "610 29 04 -",
+               "localidad" : "Chapinero",
+               "servicio_a_domicilio" : "Sí",
+               "telefono_a_domicilio" : "6550 550",
+               "pagina_web" : "www.presto.com.co"
+           },{
+               "nro" : "125",
+               "rnt" : "21289",
+               "nombre_comercial" : "El Carnal",
+               "direccion" : "Carrera 12 No 83  -  47",
+               "telefono" : "NR",
+               "localidad" : "Chapinero",
+               "servicio_a_domicilio" : "No",
+               "telefono_a_domicilio" : "NA",
+               "pagina_web" : "elcarnal.com.co"
+           },{
+               "nro" : "267",
+               "rnt" : "27985",
+               "nombre_comercial" : "La Bonga del Sinú",
+               "direccion" : "Carrera 14 No 93  -  88",
+               "telefono" : "691 95 07 - 257 32 53",
+               "localidad" : "Chapinero",
+               "servicio_a_domicilio" : "No",
+               "telefono_a_domicilio" : "NA",
+               "pagina_web" : "NR"
+           },{
+               "nro" : "6",
+               "rnt" : "14321",
+               "nombre_comercial" : "Hamburguesas el Corral Centro Internacional",
+               "direccion" : "Carrera 7 No 32 - 83 Local 102",
+               "telefono" : "NR",
+               "localidad" : "Santafé",
+               "servicio_a_domicilio" : "No",
+               "telefono_a_domicilio" : "NA",
+               "pagina_web" : "www.elcorral.com"
+           },{
+               "nro" : "142",
+               "rnt" : "22158",
+               "nombre_comercial" : "Restaurante Agadón",
+               "direccion" : "Carrera 13 No 85 - 75",
+               "telefono" : "742 53 99 - 742 53 97",
+               "localidad" : "Chapinero",
+               "servicio_a_domicilio" : "No",
+               "telefono_a_domicilio" : "NA",
+               "pagina_web" : "NR"
+           },{
+               "nro" : "129",
+               "rnt" : "21571",
+               "nombre_comercial" : "Rafael Restaurant",
+               "direccion" : "Calle 70 No 4 - 63",
+               "telefono" : "255 41 38 -",
+               "localidad" : "Chapinero",
+               "servicio_a_domicilio" : "NR",
+               "telefono_a_domicilio" : "NA",
+               "pagina_web" : "www.rafaelosterling.pe/es/bogota.html"
+           },{
+               "nro" : "186",
+               "rnt" : "25668",
+               "nombre_comercial" : "Crepes & Waffles",
+               "direccion" : "Centro comercial Salitre Plaza Carrera 68 B No 24 - 39  Local 324",
+               "telefono" : "676 76 00 Extensión 709 -",
+               "localidad" : "Fontibón",
+               "servicio_a_domicilio" : "No",
+               "telefono_a_domicilio" : "NA",
+               "pagina_web" : "www.Crepesywaffles.com"
+           },{
+               "nro" : "224",
+               "rnt" : "26437",
+               "nombre_comercial" : "Crepes & Waffles",
+               "direccion" : "Carrera 24 No 53  - 73 Local 103",
+               "telefono" : "676 76 00 Extensión 739 -",
+               "localidad" : "Teusaquillo",
+               "servicio_a_domicilio" : "No",
+               "telefono_a_domicilio" : "NA",
+               "pagina_web" : "www.Crepesywaffles.com"
+           },{
+               "nro" : "44",
+               "rnt" : "14603",
+               "nombre_comercial" : "Bogota Beer Company",
+               "direccion" : "Avenida 19 No 120 - 76",
+               "telefono" : "742 92 92 Extensión 3 Opción 2 -",
+               "localidad" : "Usaquén",
+               "servicio_a_domicilio" : "NR",
+               "telefono_a_domicilio" : "NA",
+               "pagina_web" : "www.bogotabeercompany.com"
+           },{
+               "nro" : "276",
+               "rnt" : "28423",
+               "nombre_comercial" : "Papa Jhons Galerias",
+               "direccion" : "Calle 52 No 23 - 06/10",
+               "telefono" : "NR",
+               "localidad" : "Teusaquillo",
+               "servicio_a_domicilio" : "NR",
+               "telefono_a_domicilio" : "NA",
+               "pagina_web" : "www.papajohns.com.co"
+           },{
+               "nro" : "89",
+               "rnt" : "15433",
+               "nombre_comercial" : "Tienda de Café",
+               "direccion" : "Calle 119 No 6 - 16",
+               "telefono" : "213 39 16 - 213 31 18",
+               "localidad" : "Usaquén",
+               "servicio_a_domicilio" : "Sí",
+               "telefono_a_domicilio" : "213 31 18",
+               "pagina_web" : "www.tiendadeCafé.net"
+           },{
+               "nro" : "41",
+               "rnt" : "14599",
+               "nombre_comercial" : "Bogota Beer Company S A",
+               "direccion" : "Carrera 12 No 83 - 33",
+               "telefono" : "742 92 92 Extensión 3 Opción 1 -",
+               "localidad" : "Chapinero",
+               "servicio_a_domicilio" : "NR",
+               "telefono_a_domicilio" : "NA",
+               "pagina_web" : "www.bogotabeercompany.com"
+           },{
+               "nro" : "295",
+               "rnt" : "30009",
+               "nombre_comercial" : "El Carnal",
+               "direccion" : "Centro Comercial Unicentro Avenida 15 No 124 - 30 Local 4-10",
+               "telefono" : "NR",
+               "localidad" : "Usaquén",
+               "servicio_a_domicilio" : "No",
+               "telefono_a_domicilio" : "NA",
+               "pagina_web" : "elcarnal.com.co"
+           },{
+               "nro" : "92",
+               "rnt" : "15881",
+               "nombre_comercial" : "Hamburguesas el Corral Parque Central Bavaria",
+               "direccion" : "Carrera 13 No 28 - 01 Local 173",
+               "telefono" : "NR",
+               "localidad" : "Santafé",
+               "servicio_a_domicilio" : "No",
+               "telefono_a_domicilio" : "NA",
+               "pagina_web" : "www.elcorral.com"
+           },{
+               "nro" : "213",
+               "rnt" : "26332",
+               "nombre_comercial" : "Hamburguesas el Corral Santafé II",
+               "direccion" : "Centro Comercial Santafé Calle 183 No 45 - 03 Local 3-102",
+               "telefono" : "NR",
+               "localidad" : "Usaquén",
+               "servicio_a_domicilio" : "No",
+               "telefono_a_domicilio" : "NA",
+               "pagina_web" : "www.elcorral.com"
+           },{
+               "nro" : "119",
+               "rnt" : "19118",
+               "nombre_comercial" : "Boca Cocina Latina",
+               "direccion" : "Carrera 10 No 27 - 51 Local 174 Edificio Residencias Tequendama Norte",
+               "telefono" : "596 79 99 -",
+               "localidad" : "Santafé",
+               "servicio_a_domicilio" : "NR",
+               "telefono_a_domicilio" : "NA",
+               "pagina_web" : "www.bocacocinalatina.com"
+           },{
+               "nro" : "52",
+               "rnt" : "14643",
+               "nombre_comercial" : "Restaurante La Brasserie",
+               "direccion" : "Carrera 13 No 85 - 35",
+               "telefono" : "257 64 02 - 618 45 77",
+               "localidad" : "Chapinero",
+               "servicio_a_domicilio" : "No",
+               "telefono_a_domicilio" : "NA",
+               "pagina_web" : "NR"
+           },{
+               "nro" : "12",
+               "rnt" : "14337",
+               "nombre_comercial" : "Hamburguesas el Corral Atlantis",
+               "direccion" : "Calle 80 No 13 A - 20 Local 403",
+               "telefono" : "NR",
+               "localidad" : "Chapinero",
+               "servicio_a_domicilio" : "No",
+               "telefono_a_domicilio" : "NA",
+               "pagina_web" : "www.elcorral.com"
+           },{
+               "nro" : "103",
+               "rnt" : "16933",
+               "nombre_comercial" : "Sopas de Mamá y Postres de la Abuela Sucursal Plaza de Bolívar",
+               "direccion" : "Carrera 9 No 10 - 59",
+               "telefono" : "658 48 94 -",
+               "localidad" : "Candelaria",
+               "servicio_a_domicilio" : "NR",
+               "telefono_a_domicilio" : "NA",
+               "pagina_web" : "www.sopasypostres.com.co"
+           },{
+               "nro" : "349",
+               "rnt" : "32847",
+               "nombre_comercial" : "Kokoriko Calle 71",
+               "direccion" : "Calle 71 No 9 - 06",
+               "telefono" : "NR",
+               "localidad" : "Chapinero",
+               "servicio_a_domicilio" : "Sí",
+               "telefono_a_domicilio" : "410 01 11",
+               "pagina_web" : "www.kokoriko.com.co"
+           },{
+               "nro" : "128",
+               "rnt" : "21570",
+               "nombre_comercial" : "La Despensa de Rafael",
+               "direccion" : "Calle 70 A No 9 - 95",
+               "telefono" : "235 88 91 - 248 19 97",
+               "localidad" : "Chapinero",
+               "servicio_a_domicilio" : "NR",
+               "telefono_a_domicilio" : "NA",
+               "pagina_web" : "www.rafaelosterling.pe/es/la-despensa.html"
+           },{
+               "nro" : "269",
+               "rnt" : "28323",
+               "nombre_comercial" : "Hamburguesas el Corral ESSO 100",
+               "direccion" : "Calle 100 No 11 - 79 Local 8 y 9",
+               "telefono" : "NR",
+               "localidad" : "Chapinero",
+               "servicio_a_domicilio" : "No",
+               "telefono_a_domicilio" : "NA",
+               "pagina_web" : "www.elcorral.com"
+           }
+           ]

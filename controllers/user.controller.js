@@ -2,7 +2,7 @@
 
 var User = require('../models/user.model');
 var jwt = require('jsonwebtoken');
-var config = require('../config');
+var config = require('../config/config');
 
 function authenticate(req, res) {
   // find the user
